@@ -1,0 +1,93 @@
+[LevelInfo0]
+Title="Phobos Moon 2"
+
+[LevelSummary]
+Title="Phobos Moon 2"
+
+[Volume1]
+LocationName="Link Gun Room"
+
+[Volume2]
+LocationName="Tower"
+
+[ZoneInfo0]
+LocationName="Space"
+
+[ZoneInfo1]
+LocationName="Minigun Corridor"
+
+[ZoneInfo10]
+LocationName="Rocket Launcher Room"
+
+[ZoneInfo11]
+LocationName="Minigun Corridor"
+
+[ZoneInfo12]
+LocationName="Bio Rifle Corridor"
+
+[ZoneInfo13]
+LocationName="Minigun Corridor"
+
+[ZoneInfo14]
+LocationName="Shock Rifle Corridor"
+
+[ZoneInfo15]
+LocationName="Central"
+
+[ZoneInfo16]
+LocationName="Sniper Room"
+
+[ZoneInfo17]
+LocationName="Super Health Room"
+
+[ZoneInfo18]
+LocationName="Sniper Corridor"
+
+[ZoneInfo19]
+LocationName="Central"
+
+[ZoneInfo2]
+LocationName="Super Health Room"
+
+[ZoneInfo20]
+LocationName="Flak Corridor"
+
+[ZoneInfo21]
+LocationName="Flak Corridor"
+
+[ZoneInfo22]
+LocationName="Flak Corridor"
+
+[ZoneInfo23]
+LocationName="Shock Rifle Corridor"
+
+[ZoneInfo24]
+LocationName="Central"
+
+[ZoneInfo25]
+LocationName="Shield Corridor"
+
+[ZoneInfo26]
+LocationName="Bio Rifle Corridor"
+
+[ZoneInfo3]
+LocationName="Super Health Room"
+
+[ZoneInfo4]
+LocationName="Super Health Room"
+
+[ZoneInfo5]
+LocationName="Bio Rifle Corridor"
+
+[ZoneInfo6]
+LocationName="Link Gun Room"
+
+[ZoneInfo7]
+LocationName="Central"
+
+[ZoneInfo8]
+LocationName="Shock Rifle Corridor"
+
+[ZoneInfo9]
+LocationName="Flak Corridor"
+
