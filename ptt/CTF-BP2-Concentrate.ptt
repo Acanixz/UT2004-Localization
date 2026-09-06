@@ -1,89 +1,122 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Concentrate"
 Title="Concentrate"
 
 [LevelSummary]
+; EN: Title="Concentrate"
 Title="Concentrate"
+; EN: Description="On this derelict outpost set deep in the Elorean Seas, there is no escape for the struggling... except through victory.  The only way out is through."
 Description="On this derelict outpost set deep in the Elorean Seas, there is no escape for the struggling... except through victory.  The only way out is through."
 
 [PhysicsVolume0]
+; EN: LocationName="Red Spike Pit"
 LocationName="Red Spike Pit"
 
 [PhysicsVolume1]
+; EN: LocationName="Blue Spike Pit"
 LocationName="Blue Spike Pit"
 
 [PhysicsVolume2]
+; EN: LocationName="Blue Spike Pit"
 LocationName="Blue Spike Pit"
 
 [PhysicsVolume3]
+; EN: LocationName="Blue Spike Pit"
 LocationName="Blue Spike Pit"
 
 [PhysicsVolume4]
+; EN: LocationName="Red Spike Pit"
 LocationName="Red Spike Pit"
 
 [PhysicsVolume5]
+; EN: LocationName="Red Spike Pit"
 LocationName="Red Spike Pit"
 
 [Volume1]
+; EN: LocationName="Blue Flag Pit"
 LocationName="Blue Flag Pit"
 
 [Volume10]
+; EN: LocationName="Red Upper Area"
 LocationName="Red Upper Area"
 
 [Volume11]
+; EN: LocationName="Red Flag Room"
 LocationName="Red Flag Room"
 
 [Volume12]
+; EN: LocationName="Red Spawn Area"
 LocationName="Red Spawn Area"
 
 [Volume3]
+; EN: LocationName="Central Area"
 LocationName="Central Area"
 
 [Volume4]
+; EN: LocationName="Blue Upper Area"
 LocationName="Blue Upper Area"
 
 [Volume5]
+; EN: LocationName="Blue Upper Area"
 LocationName="Blue Upper Area"
 
 [Volume6]
+; EN: LocationName="Blue Flag Room"
 LocationName="Blue Flag Room"
 
 [Volume7]
+; EN: LocationName="Red Flag Pit"
 LocationName="Red Flag Pit"
 
 [Volume8]
+; EN: LocationName="Blue Spawn Area"
 LocationName="Blue Spawn Area"
 
 [Volume9]
+; EN: LocationName="Red Upper Area"
 LocationName="Red Upper Area"
 
 [ZoneInfo0]
+; EN: LocationName="Somewhere Else"
 LocationName="Somewhere Else"
 
 [ZoneInfo1]
+; EN: LocationName="Red Upper Corridor"
 LocationName="Red Upper Corridor"
 
 [ZoneInfo2]
+; EN: LocationName="Red Lower Corridor"
 LocationName="Red Lower Corridor"
 
 [ZoneInfo3]
+; EN: LocationName="Blue Lower Corridor"
 LocationName="Blue Lower Corridor"
 
 [ZoneInfo4]
+; EN: LocationName="Blue Upper Corridor"
 LocationName="Blue Upper Corridor"
 
 [ZoneInfo5]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [ZoneInfo6]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [fell_nogibs]
+; EN: DeathString="%o was spiked."
 DeathString="%o was spiked."
+; EN: FemaleSuicide="%o was spiked."
 FemaleSuicide="%o was spiked."
+; EN: MaleSuicide="%o was spiked."
 MaleSuicide="%o was spiked."
 
 [fell_nogibs2]
+; EN: DeathString="%o fell off."
 DeathString="%o fell off."
+; EN: FemaleSuicide="%o fell off."
 FemaleSuicide="%o fell off."
+; EN: MaleSuicide="%o fell off."
 MaleSuicide="%o fell off."
 

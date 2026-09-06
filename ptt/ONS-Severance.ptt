@@ -1,31 +1,42 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Severance"
 Title="Severance"
 
 [LevelSummary]
+; EN: Title="Severance"
 Title="Severance"
+; EN: Description="Eons past, the inhabitants of these forgotten ruins summoned a being of elemental darkness, which they imprisoned and lulled to sleep with the blood of countless sacrifices. In the stillness between battles, one can sometimes hear the voice of this titan, roused from sleep, awaiting your blood."
 Description="Eons past, the inhabitants of these forgotten ruins summoned a being of elemental darkness, which they imprisoned and lulled to sleep with the blood of countless sacrifices. In the stillness between battles, one can sometimes hear the voice of this titan, roused from sleep, awaiting your blood."
 
 [Volume10]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume3]
+; EN: LocationName="Blue Prime Node (4)"
 LocationName="Blue Prime Node (4)"
 
 [Volume4]
+; EN: LocationName="Northwest Node (3)"
 LocationName="Northwest Node (3)"
 
 [Volume5]
+; EN: LocationName="Center Node (1)"
 LocationName="Center Node (1)"
 
 [Volume6]
+; EN: LocationName="Southeast Node (2)"
 LocationName="Southeast Node (2)"
 
 [Volume7]
+; EN: LocationName="Red Prime Node (5)"
 LocationName="Red Prime Node (5)"
 
 [Volume9]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [ZoneInfo0]
+; EN: LocationName="Outside"
 LocationName="Outside"
 

@@ -1,49 +1,66 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Torlan"
 Title="Torlan"
 
 [LevelSummary]
+; EN: Title="Torlan"
 Title="Torlan"
+; EN: Description="Set on the dried outskirts of a lush jungle continent, two factions clash in fierce combat for control of a major communications tower and its adjacent power supply. With the dam holding back the waters from the nearby jungle, the dried out riverbed running across the battlefield allows for an easy attack route into enemy territory and could provide a decisive victor with ownership of the enormous Comm-tower as the reward."
 Description="Set on the dried outskirts of a lush jungle continent, two factions clash in fierce combat for control of a major communications tower and its adjacent power supply. With the dam holding back the waters from the nearby jungle, the dried out riverbed running across the battlefield allows for an easy attack route into enemy territory and could provide a decisive victor with ownership of the enormous Comm-tower as the reward."
 
 [Volume0]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume1]
+; EN: LocationName="Central Canyon"
 LocationName="Central Canyon"
 
 [Volume11]
+; EN: LocationName="Central Canyon"
 LocationName="Central Canyon"
 
 [Volume12]
+; EN: LocationName="Red Prime Node (2)"
 LocationName="Red Prime Node (2)"
 
 [Volume13]
+; EN: LocationName="Tower Bridge"
 LocationName="Tower Bridge"
 
 [Volume14]
+; EN: LocationName="Center Node (3)"
 LocationName="Center Node (3)"
 
 [Volume2]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume3]
+; EN: LocationName="Blue Tower"
 LocationName="Blue Tower"
 
 [Volume4]
+; EN: LocationName="Red Tower"
 LocationName="Red Tower"
 
 [Volume6]
+; EN: LocationName="Red Goliath Node (1)"
 LocationName="Red Goliath Node (1)"
 
 [Volume7]
+; EN: LocationName="Blue Goliath Node (5)"
 LocationName="Blue Goliath Node (5)"
 
 [Volume8]
+; EN: LocationName="Blue Prime Node (4)"
 LocationName="Blue Prime Node (4)"
 
 [Volume9]
+; EN: LocationName="Central Tower"
 LocationName="Central Tower"
 
 [ZoneInfo0]
+; EN: LocationName="Outside"
 LocationName="Outside"
 

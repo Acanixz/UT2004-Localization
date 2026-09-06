@@ -1,24 +1,32 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Sepukku Gorge"
 Title="Sepukku Gorge"
 
 [LevelSummary]
+; EN: Title="Sepukku Gorge"
 Title="Sepukku Gorge"
 
 [Volume0]
+; EN: LocationName="Near Point B"
 LocationName="Near Point B"
 
 [Volume1]
+; EN: LocationName="Near Point A"
 LocationName="Near Point A"
 
 [Volume2]
+; EN: LocationName="On The Bridges"
 LocationName="On The Bridges"
 
 [Volume3]
+; EN: LocationName="Red Cave"
 LocationName="Red Cave"
 
 [Volume4]
+; EN: LocationName="Blue Cave"
 LocationName="Blue Cave"
 
 [ZoneInfo0]
+; EN: LocationName="Outside"
 LocationName="Outside"
 

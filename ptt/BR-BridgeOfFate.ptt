@@ -1,76 +1,102 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Bridge of Fate"
 Title="Bridge of Fate"
 
 [LevelSummary]
+; EN: Title="Bridge of Fate"
 Title="Bridge of Fate"
+; EN: Description="Two sides, a huge cave in between, one bridge going from side to side, bridging the gap between two teams, bridging the gap between hope and despair."
 Description="Two sides, a huge cave in between, one bridge going from side to side, bridging the gap between two teams, bridging the gap between hope and despair."
 
 [ZoneInfo0]
+; EN: LocationName="Cave"
 LocationName="Cave"
 
 [ZoneInfo1]
+; EN: LocationName="BLUE Armor Entrance"
 LocationName="BLUE Armor Entrance"
 
 [ZoneInfo10]
+; EN: LocationName="BLUE Main Entrance"
 LocationName="BLUE Main Entrance"
 
 [ZoneInfo11]
+; EN: LocationName="BLUE Bomb Room"
 LocationName="BLUE Bomb Room"
 
 [ZoneInfo12]
+; EN: LocationName="BLUE Bomb Room"
 LocationName="BLUE Bomb Room"
 
 [ZoneInfo13]
+; EN: LocationName="BLUE BioRifle Entrance"
 LocationName="BLUE BioRifle Entrance"
 
 [ZoneInfo14]
+; EN: LocationName="RED Bomb Room"
 LocationName="RED Bomb Room"
 
 [ZoneInfo15]
+; EN: LocationName="RED BioRifle Entrance"
 LocationName="RED BioRifle Entrance"
 
 [ZoneInfo16]
+; EN: LocationName="RED Armor Entrance"
 LocationName="RED Armor Entrance"
 
 [ZoneInfo17]
+; EN: LocationName="RED Armor Entrance"
 LocationName="RED Armor Entrance"
 
 [ZoneInfo18]
+; EN: LocationName="RED BioRifle Entrance"
 LocationName="RED BioRifle Entrance"
 
 [ZoneInfo19]
+; EN: LocationName="RED Main Entrance"
 LocationName="RED Main Entrance"
 
 [ZoneInfo20]
+; EN: LocationName="RED BioRifle Entrance"
 LocationName="RED BioRifle Entrance"
 
 [ZoneInfo21]
+; EN: LocationName="RED Bomb Room"
 LocationName="RED Bomb Room"
 
 [ZoneInfo22]
+; EN: LocationName="RED Bomb Room"
 LocationName="RED Bomb Room"
 
 [ZoneInfo23]
+; EN: LocationName="RED Armor Entrance"
 LocationName="RED Armor Entrance"
 
 [ZoneInfo3]
+; EN: LocationName="BLUE Bomb Room"
 LocationName="BLUE Bomb Room"
 
 [ZoneInfo4]
+; EN: LocationName="BLUE Pillar Room"
 LocationName="BLUE Pillar Room"
 
 [ZoneInfo5]
+; EN: LocationName="BLUE BioRifle Entrance"
 LocationName="BLUE BioRifle Entrance"
 
 [ZoneInfo6]
+; EN: LocationName="BLUE Armor Entrance"
 LocationName="BLUE Armor Entrance"
 
 [ZoneInfo7]
+; EN: LocationName="RED Pillar Room"
 LocationName="RED Pillar Room"
 
 [ZoneInfo8]
+; EN: LocationName="BLUE Armor Entrance"
 LocationName="BLUE Armor Entrance"
 
 [ZoneInfo9]
+; EN: LocationName="BLUE BioRifle Entrance"
 LocationName="BLUE BioRifle Entrance"
 

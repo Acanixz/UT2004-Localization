@@ -1,57 +1,76 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Inferno"
 Title="Inferno"
 
 [LevelSummary]
+; EN: Title="Inferno"
 Title="Inferno"
 
 [ZoneInfo0]
+; EN: LocationName="minigun tower"
 LocationName="minigun tower"
 
 [ZoneInfo1]
+; EN: LocationName="burning in hell"
 LocationName="burning in hell"
 
 [ZoneInfo10]
+; EN: LocationName="shock tower"
 LocationName="shock tower"
 
 [ZoneInfo11]
+; EN: LocationName="middle tower"
 LocationName="middle tower"
 
 [ZoneInfo12]
+; EN: LocationName="shock tower"
 LocationName="shock tower"
 
 [ZoneInfo13]
+; EN: LocationName="shock tower"
 LocationName="shock tower"
 
 [ZoneInfo14]
+; EN: LocationName="burning in hell"
 LocationName="burning in hell"
 
 [ZoneInfo15]
+; EN: LocationName="burning in hell"
 LocationName="burning in hell"
 
 [ZoneInfo16]
+; EN: LocationName="burning in hell"
 LocationName="burning in hell"
 
 [ZoneInfo2]
+; EN: LocationName="flak tower"
 LocationName="flak tower"
 
 [ZoneInfo3]
+; EN: LocationName="middle tower"
 LocationName="middle tower"
 
 [ZoneInfo4]
+; EN: LocationName="minigun tower"
 LocationName="minigun tower"
 
 [ZoneInfo5]
+; EN: LocationName="minigun tower"
 LocationName="minigun tower"
 
 [ZoneInfo6]
+; EN: LocationName="flak tower"
 LocationName="flak tower"
 
 [ZoneInfo7]
+; EN: LocationName="flak tower"
 LocationName="flak tower"
 
 [ZoneInfo8]
+; EN: LocationName="middle tower"
 LocationName="middle tower"
 
 [ZoneInfo9]
+; EN: LocationName="middle tower"
 LocationName="middle tower"
 

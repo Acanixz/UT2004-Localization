@@ -1,72 +1,96 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Citadel"
 Title="Citadel"
 
 [LevelSummary]
+; EN: Title="Citadel"
 Title="Citadel"
 
 [Volume0]
+; EN: LocationName="Middle Bridge"
 LocationName="Middle Bridge"
 
 [Volume1]
+; EN: LocationName="Red High Bridge"
 LocationName="Red High Bridge"
 
 [Volume10]
+; EN: LocationName="Red Sloped Entrance"
 LocationName="Red Sloped Entrance"
 
 [Volume11]
+; EN: LocationName="Red Entrance"
 LocationName="Red Entrance"
 
 [Volume12]
+; EN: LocationName="Blue Entrance"
 LocationName="Blue Entrance"
 
 [Volume2]
+; EN: LocationName="Red Low Bridge"
 LocationName="Red Low Bridge"
 
 [Volume3]
+; EN: LocationName="Blue Low Bridge"
 LocationName="Blue Low Bridge"
 
 [Volume4]
+; EN: LocationName="Blue High Bridge"
 LocationName="Blue High Bridge"
 
 [Volume5]
+; EN: LocationName="Blue Mesa"
 LocationName="Blue Mesa"
 
 [Volume6]
+; EN: LocationName="Red Mesa"
 LocationName="Red Mesa"
 
 [Volume7]
+; EN: LocationName="Blue Sloped Entrance"
 LocationName="Blue Sloped Entrance"
 
 [Volume8]
+; EN: LocationName="Blue Flag Base"
 LocationName="Blue Flag Base"
 
 [Volume9]
+; EN: LocationName="Red Flag Base"
 LocationName="Red Flag Base"
 
 [ZoneInfo0]
+; EN: LocationName="Blue Sloped Entrance"
 LocationName="Blue Sloped Entrance"
 
 [ZoneInfo1]
+; EN: LocationName="Outside"
 LocationName="Outside"
 
 [ZoneInfo3]
+; EN: LocationName="Red Sloped Entrance"
 LocationName="Red Sloped Entrance"
 
 [ZoneInfo4]
+; EN: LocationName="Red Flag Base"
 LocationName="Red Flag Base"
 
 [ZoneInfo5]
+; EN: LocationName="Red Entrance"
 LocationName="Red Entrance"
 
 [ZoneInfo6]
+; EN: LocationName="Red Entrance"
 LocationName="Red Entrance"
 
 [ZoneInfo7]
+; EN: LocationName="Blue Entrance"
 LocationName="Blue Entrance"
 
 [ZoneInfo8]
+; EN: LocationName="Blue Entrance"
 LocationName="Blue Entrance"
 
 [ZoneInfo9]
+; EN: LocationName="Blue Flag Room"
 LocationName="Blue Flag Room"
 

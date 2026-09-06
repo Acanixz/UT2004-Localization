@@ -1,97 +1,130 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="ElecFields"
 Title="ElecFields"
 
 [LevelSummary]
+; EN: Title="ElecFields"
 Title="ElecFields"
+; EN: Description="The static towers of the Marakan flow have proven to be one of the most popular venues in the Tournament since their introduction last season. The true nature of the modern gladiator is revealed as participants butcher their way to victory. Whether competing in CTF or Bombing Run competitions, players must keep one thing in mind at all times as they do battle in the poisonous skies of Purgatory -- It's a long way down."
 Description="The static towers of the Marakan flow have proven to be one of the most popular venues in the Tournament since their introduction last season. The true nature of the modern gladiator is revealed as participants butcher their way to victory. Whether competing in CTF or Bombing Run competitions, players must keep one thing in mind at all times as they do battle in the poisonous skies of Purgatory -- It's a long way down."
 
 [Volume0]
+; EN: LocationName="Blue Front"
 LocationName="Blue Front"
 
 [Volume1]
+; EN: LocationName="Blue Spawning Area"
 LocationName="Blue Spawning Area"
 
 [Volume10]
+; EN: LocationName="Red Base Ramp"
 LocationName="Red Base Ramp"
 
 [Volume11]
+; EN: LocationName="Red Base Ramp"
 LocationName="Red Base Ramp"
 
 [Volume12]
+; EN: LocationName="Blue Front Lower Ramp"
 LocationName="Blue Front Lower Ramp"
 
 [Volume13]
+; EN: LocationName="Red Front Lower Ramp"
 LocationName="Red Front Lower Ramp"
 
 [Volume14]
+; EN: LocationName="Blue Front Lower Ramp"
 LocationName="Blue Front Lower Ramp"
 
 [Volume15]
+; EN: LocationName="Blue Front Lower Ramp"
 LocationName="Blue Front Lower Ramp"
 
 [Volume16]
+; EN: LocationName="Red Front Lower Ramp"
 LocationName="Red Front Lower Ramp"
 
 [Volume17]
+; EN: LocationName="Red Front Lower Ramp"
 LocationName="Red Front Lower Ramp"
 
 [Volume18]
+; EN: LocationName="Top Middle Area"
 LocationName="Top Middle Area"
 
 [Volume19]
+; EN: LocationName="Tower Area"
 LocationName="Tower Area"
 
 [Volume2]
+; EN: LocationName="Lower Middle Area"
 LocationName="Lower Middle Area"
 
 [Volume20]
+; EN: LocationName="Blue Front Upper Ramp"
 LocationName="Blue Front Upper Ramp"
 
 [Volume21]
+; EN: LocationName="Blue Front Upper Ramp"
 LocationName="Blue Front Upper Ramp"
 
 [Volume22]
+; EN: LocationName="Blue Front Upper Ramp"
 LocationName="Blue Front Upper Ramp"
 
 [Volume23]
+; EN: LocationName="Red Front Upper Ramp"
 LocationName="Red Front Upper Ramp"
 
 [Volume24]
+; EN: LocationName="Red Front Upper Ramp"
 LocationName="Red Front Upper Ramp"
 
 [Volume25]
+; EN: LocationName="Red Front Upper Ramp"
 LocationName="Red Front Upper Ramp"
 
 [Volume26]
+; EN: LocationName="Red Front Lower Ramp"
 LocationName="Red Front Lower Ramp"
 
 [Volume27]
+; EN: LocationName="Blue Front Lower Ramp"
 LocationName="Blue Front Lower Ramp"
 
 [Volume28]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume3]
+; EN: LocationName="Red Spawning Area"
 LocationName="Red Spawning Area"
 
 [Volume4]
+; EN: LocationName="Red Front"
 LocationName="Red Front"
 
 [Volume5]
+; EN: LocationName="Blue Base Ramp"
 LocationName="Blue Base Ramp"
 
 [Volume6]
+; EN: LocationName="Blue Base Ramp"
 LocationName="Blue Base Ramp"
 
 [Volume7]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume8]
+; EN: LocationName="Red Front"
 LocationName="Red Front"
 
 [Volume9]
+; EN: LocationName="Blue Front"
 LocationName="Blue Front"
 
 [ZoneInfo0]
+; EN: LocationName="Outside"
 LocationName="Outside"
 

@@ -1,7 +1,13 @@
-[General]
+﻿[General]
+; EN: FrameWindow="Unreal Level Editor"
 FrameWindow="Unreal Level Editor"
+; EN: Start="UnrealEd (Starting)"
 Start="UnrealEd (Starting)"
+; EN: Exit="UnrealEd (Exiting)"
 Exit="UnrealEd (Exiting)"
+; EN: Run="UnrealEd (Running)"
 Run="UnrealEd (Running)"
+; EN: Product="UnrealEd"
 Product="UnrealEd"
+; EN: Abbreviation="UEd"
 Abbreviation="UEd"

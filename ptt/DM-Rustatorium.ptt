@@ -1,10 +1,14 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Rustatorium"
 Title="Rustatorium"
 
 [LevelSummary]
+; EN: Title="Rustatorium"
 Title="Rustatorium"
+; EN: Description="The graveyard of civilization's dreams, this bleak and blasted place has claimed more lives than can be imagined.  Will you be next, or will you rise from the Rustatorium victorious?"
 Description="The graveyard of civilization's dreams, this bleak and blasted place has claimed more lives than can be imagined.  Will you be next, or will you rise from the Rustatorium victorious?"
 
 [ZoneInfo0]
+; EN: LocationName="Outside"
 LocationName="Outside"
 

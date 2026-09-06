@@ -1,120 +1,160 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Bombing Run Tutorial"
 Title="Bombing Run Tutorial"
 
 [LevelInfo6]
+; EN: Title="Temple Of Anubis"
 Title="Temple Of Anubis"
 
 [LevelSummary]
+; EN: Title="Bombing Run Tutorial"
 Title="Bombing Run Tutorial"
 
 [ZoneInfo0]
+; EN: LocationName="Painter sand dune"
 LocationName="Painter sand dune"
 
 [ZoneInfo1]
+; EN: LocationName="Super shield sand dune"
 LocationName="Super shield sand dune"
 
 [ZoneInfo10]
+; EN: LocationName="Blue respawn room"
 LocationName="Blue respawn room"
 
 [ZoneInfo12]
+; EN: LocationName="Blue respawn room"
 LocationName="Blue respawn room"
 
 [ZoneInfo13]
+; EN: LocationName="Blue respawn room"
 LocationName="Blue respawn room"
 
 [ZoneInfo14]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo15]
+; EN: LocationName="Red base"
 LocationName="Red base"
 
 [ZoneInfo16]
+; EN: LocationName="Red base"
 LocationName="Red base"
 
 [ZoneInfo17]
+; EN: LocationName="Red respawn room"
 LocationName="Red respawn room"
 
 [ZoneInfo18]
+; EN: LocationName="Blue respawn room"
 LocationName="Blue respawn room"
 
 [ZoneInfo19]
+; EN: LocationName="Red respawn room"
 LocationName="Red respawn room"
 
 [ZoneInfo2]
+; EN: LocationName="Flakk cannon room"
 LocationName="Flakk cannon room"
 
 [ZoneInfo20]
+; EN: LocationName="Red respawn room"
 LocationName="Red respawn room"
 
 [ZoneInfo21]
+; EN: LocationName="Red respawn room"
 LocationName="Red respawn room"
 
 [ZoneInfo22]
+; EN: LocationName="Red respawn room"
 LocationName="Red respawn room"
 
 [ZoneInfo23]
+; EN: LocationName="Blue Respawn room"
 LocationName="Blue Respawn room"
 
 [ZoneInfo24]
+; EN: LocationName="Blue repawn room"
 LocationName="Blue repawn room"
 
 [ZoneInfo25]
+; EN: LocationName="Bomb respawn room"
 LocationName="Bomb respawn room"
 
 [ZoneInfo26]
+; EN: LocationName="Rocket launcher room"
 LocationName="Rocket launcher room"
 
 [ZoneInfo27]
+; EN: LocationName="Rocket launcher room"
 LocationName="Rocket launcher room"
 
 [ZoneInfo28]
+; EN: LocationName="Flakk cannon room"
 LocationName="Flakk cannon room"
 
 [ZoneInfo29]
+; EN: LocationName="Bomb respawn room"
 LocationName="Bomb respawn room"
 
 [ZoneInfo3]
+; EN: LocationName="Red respawn room"
 LocationName="Red respawn room"
 
 [ZoneInfo30]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo31]
+; EN: LocationName="Bomb respawn room"
 LocationName="Bomb respawn room"
 
 [ZoneInfo32]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo33]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo34]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo35]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo36]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo37]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo38]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo39]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo4]
+; EN: LocationName="Blue court yard"
 LocationName="Blue court yard"
 
 [ZoneInfo5]
+; EN: LocationName="Blue court yard"
 LocationName="Blue court yard"
 
 [ZoneInfo8]
+; EN: LocationName="Blue base"
 LocationName="Blue base"
 
 [ZoneInfo9]
+; EN: LocationName="Blue base"
 LocationName="Blue base"
 

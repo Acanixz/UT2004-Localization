@@ -1,90 +1,120 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Chrome"
 Title="Chrome"
 
 [LevelSummary]
+; EN: Title="Chrome"
 Title="Chrome"
 
 [ZoneInfo0]
+; EN: LocationName="Blue West Generator"
 LocationName="Blue West Generator"
 
 [ZoneInfo1]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [ZoneInfo10]
+; EN: LocationName="Red East Spawn"
 LocationName="Red East Spawn"
 
 [ZoneInfo11]
+; EN: LocationName="Blue West Entry"
 LocationName="Blue West Entry"
 
 [ZoneInfo12]
+; EN: LocationName="Middle - Blue Side"
 LocationName="Middle - Blue Side"
 
 [ZoneInfo13]
+; EN: LocationName="Middle - Red Side"
 LocationName="Middle - Red Side"
 
 [ZoneInfo14]
+; EN: LocationName="Middle - Red Side"
 LocationName="Middle - Red Side"
 
 [ZoneInfo15]
+; EN: LocationName="Red West Generator"
 LocationName="Red West Generator"
 
 [ZoneInfo16]
+; EN: LocationName="Red East Entry"
 LocationName="Red East Entry"
 
 [ZoneInfo17]
+; EN: LocationName="Red East Entry"
 LocationName="Red East Entry"
 
 [ZoneInfo18]
+; EN: LocationName="Red West Entry"
 LocationName="Red West Entry"
 
 [ZoneInfo2]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [ZoneInfo20]
+; EN: LocationName="Blue East Spawn"
 LocationName="Blue East Spawn"
 
 [ZoneInfo21]
+; EN: LocationName="Blue West Spawn"
 LocationName="Blue West Spawn"
 
 [ZoneInfo22]
+; EN: LocationName="Middle - East Corridor"
 LocationName="Middle - East Corridor"
 
 [ZoneInfo23]
+; EN: LocationName="Red East Generator"
 LocationName="Red East Generator"
 
 [ZoneInfo24]
+; EN: LocationName="Middle - Blue Side"
 LocationName="Middle - Blue Side"
 
 [ZoneInfo25]
+; EN: LocationName="Blue West Entry"
 LocationName="Blue West Entry"
 
 [ZoneInfo26]
+; EN: LocationName="Blue East Entry"
 LocationName="Blue East Entry"
 
 [ZoneInfo27]
+; EN: LocationName="Middle - Blue Side"
 LocationName="Middle - Blue Side"
 
 [ZoneInfo28]
+; EN: LocationName="Middle - East Corridor"
 LocationName="Middle - East Corridor"
 
 [ZoneInfo3]
+; EN: LocationName="Blue East Generator"
 LocationName="Blue East Generator"
 
 [ZoneInfo4]
+; EN: LocationName="Red West Entry"
 LocationName="Red West Entry"
 
 [ZoneInfo5]
+; EN: LocationName="Blue East Entry"
 LocationName="Blue East Entry"
 
 [ZoneInfo6]
+; EN: LocationName="Middle - Red Side"
 LocationName="Middle - Red Side"
 
 [ZoneInfo7]
+; EN: LocationName="Middle - Blue Side"
 LocationName="Middle - Blue Side"
 
 [ZoneInfo8]
+; EN: LocationName="Red West Spawn"
 LocationName="Red West Spawn"
 
 [ZoneInfo9]
+; EN: LocationName="Middle - West Corridor"
 LocationName="Middle - West Corridor"
 

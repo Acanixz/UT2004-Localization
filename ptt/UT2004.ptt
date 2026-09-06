@@ -1,6 +1,11 @@
-[General]
+﻿[General]
+; EN: Start="Unreal Tournament 2004 (Starting)"
 Start="Unreal Tournament 2004 (Starting)"
+; EN: Exit="Unreal Tournament 2004 (Exiting)"
 Exit="Unreal Tournament 2004 (Exiting)"
+; EN: Run="Unreal Tournament 2004 (Running)"
 Run="Unreal Tournament 2004 (Running)"
+; EN: Product="Unreal Tournament 2004"
 Product="Unreal Tournament 2004"
+; EN: Abbreviation="UT2004"
 Abbreviation="UT2004"

@@ -1,6 +1,10 @@
-[BulldogMessage]
+﻿[BulldogMessage]
+; EN: GetInMessage="Press [Use] To Enter Vehicle."
 GetInMessage="Press [Use] To Enter Vehicle."
+; EN: GetOutMessage="Press [Use] To Exit Vehicle."
 GetOutMessage="Press [Use] To Exit Vehicle."
+; EN: TooManyCarsMessage="Too Many Cars Already!"
 TooManyCarsMessage="Too Many Cars Already!"
+; EN: FlipCarMessage="Press [Use] To Flip Vehicle."
 FlipCarMessage="Press [Use] To Flip Vehicle."
 

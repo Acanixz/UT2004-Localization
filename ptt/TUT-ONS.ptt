@@ -1,7 +1,10 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Onslaught Tutorial"
 Title="Onslaught Tutorial"
 
 [LevelSummary]
+; EN: Title="Onslaught Tutorial"
 Title="Onslaught Tutorial"
+; EN: Description="Onslaught Tutorial"
 Description="Onslaught Tutorial"
 

@@ -1,172 +1,230 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Avaris"
 Title="Avaris"
 
 [LevelSummary]
+; EN: Title="Avaris"
 Title="Avaris"
+; EN: Description="Once the capital of a mighty empire, Avaris now lies empty, abandoned to the relentless elements of the desert.  Those who die here in the Tournament share the same fate."
 Description="Once the capital of a mighty empire, Avaris now lies empty, abandoned to the relentless elements of the desert.  Those who die here in the Tournament share the same fate."
 
 [ZoneInfo0]
+; EN: LocationName="Blue Left Antechamber"
 LocationName="Blue Left Antechamber"
 
 [ZoneInfo1]
+; EN: LocationName="Blue Courtyard"
 LocationName="Blue Courtyard"
 
 [ZoneInfo10]
+; EN: LocationName="Blue Main Hall"
 LocationName="Blue Main Hall"
 
 [ZoneInfo11]
+; EN: LocationName="Red Right Antechamber"
 LocationName="Red Right Antechamber"
 
 [ZoneInfo12]
+; EN: LocationName="Red Left Antechamber (Destroyed)"
 LocationName="Red Left Antechamber (Destroyed)"
 
 [ZoneInfo13]
+; EN: LocationName="Red Flag Base"
 LocationName="Red Flag Base"
 
 [ZoneInfo15]
+; EN: LocationName="Courtyard Building"
 LocationName="Courtyard Building"
 
 [ZoneInfo16]
+; EN: LocationName="Red Right Entrance"
 LocationName="Red Right Entrance"
 
 [ZoneInfo17]
+; EN: LocationName="Courtyard Building"
 LocationName="Courtyard Building"
 
 [ZoneInfo18]
+; EN: LocationName="Red Left Entrance"
 LocationName="Red Left Entrance"
 
 [ZoneInfo19]
+; EN: LocationName="Red Main Hall"
 LocationName="Red Main Hall"
 
 [ZoneInfo2]
+; EN: LocationName="Blue Flag Base"
 LocationName="Blue Flag Base"
 
 [ZoneInfo20]
+; EN: LocationName="Blue Left Entrance"
 LocationName="Blue Left Entrance"
 
 [ZoneInfo21]
+; EN: LocationName="Red Right Passages"
 LocationName="Red Right Passages"
 
 [ZoneInfo22]
+; EN: LocationName="Red Right Courtyard"
 LocationName="Red Right Courtyard"
 
 [ZoneInfo23]
+; EN: LocationName="Blue Flag Base"
 LocationName="Blue Flag Base"
 
 [ZoneInfo24]
+; EN: LocationName="Blue Flag Base"
 LocationName="Blue Flag Base"
 
 [ZoneInfo27]
+; EN: LocationName="Blue Left Side"
 LocationName="Blue Left Side"
 
 [ZoneInfo28]
+; EN: LocationName="Courtyard Building"
 LocationName="Courtyard Building"
 
 [ZoneInfo29]
+; EN: LocationName="Central Courtyard"
 LocationName="Central Courtyard"
 
 [ZoneInfo3]
+; EN: LocationName="Central Area"
 LocationName="Central Area"
 
 [ZoneInfo30]
+; EN: LocationName="Blue Right Entrance"
 LocationName="Blue Right Entrance"
 
 [ZoneInfo31]
+; EN: LocationName="Central Area"
 LocationName="Central Area"
 
 [ZoneInfo32]
+; EN: LocationName="Blue Left Staircase"
 LocationName="Blue Left Staircase"
 
 [ZoneInfo33]
+; EN: LocationName="Blue Right Antechamber"
 LocationName="Blue Right Antechamber"
 
 [ZoneInfo34]
+; EN: LocationName="Red Left Staircase"
 LocationName="Red Left Staircase"
 
 [ZoneInfo35]
+; EN: LocationName="Central Area"
 LocationName="Central Area"
 
 [ZoneInfo36]
+; EN: LocationName="Red Right Staircase"
 LocationName="Red Right Staircase"
 
 [ZoneInfo37]
+; EN: LocationName="Blue Flag Base"
 LocationName="Blue Flag Base"
 
 [ZoneInfo38]
+; EN: LocationName="Red Flag Base"
 LocationName="Red Flag Base"
 
 [ZoneInfo39]
+; EN: LocationName="Red Flag Base"
 LocationName="Red Flag Base"
 
 [ZoneInfo42]
+; EN: LocationName="Red Courtyard"
 LocationName="Red Courtyard"
 
 [ZoneInfo43]
+; EN: LocationName="Courtyard Building"
 LocationName="Courtyard Building"
 
 [ZoneInfo44]
+; EN: LocationName="Blue Left Side"
 LocationName="Blue Left Side"
 
 [ZoneInfo45]
+; EN: LocationName="Blue Right Antechamber"
 LocationName="Blue Right Antechamber"
 
 [ZoneInfo46]
+; EN: LocationName="Blue Right Antechamber"
 LocationName="Blue Right Antechamber"
 
 [ZoneInfo47]
+; EN: LocationName="Blue Flag Base"
 LocationName="Blue Flag Base"
 
 [ZoneInfo48]
+; EN: LocationName="Blue Right Antechamber"
 LocationName="Blue Right Antechamber"
 
 [ZoneInfo49]
+; EN: LocationName="Red Right Side"
 LocationName="Red Right Side"
 
 [ZoneInfo5]
+; EN: LocationName="Red Left Courtyard"
 LocationName="Red Left Courtyard"
 
 [ZoneInfo50]
+; EN: LocationName="Blue Right Side"
 LocationName="Blue Right Side"
 
 [ZoneInfo51]
+; EN: LocationName="Blue Flag Base"
 LocationName="Blue Flag Base"
 
 [ZoneInfo52]
+; EN: LocationName="Blue Flag Base"
 LocationName="Blue Flag Base"
 
 [ZoneInfo53]
+; EN: LocationName="Red Flag Base"
 LocationName="Red Flag Base"
 
 [ZoneInfo54]
+; EN: LocationName="Red Flag Base"
 LocationName="Red Flag Base"
 
 [ZoneInfo55]
+; EN: LocationName="Blue Right Side"
 LocationName="Blue Right Side"
 
 [ZoneInfo56]
+; EN: LocationName="Central Area"
 LocationName="Central Area"
 
 [ZoneInfo57]
+; EN: LocationName="Central Area"
 LocationName="Central Area"
 
 [ZoneInfo59]
+; EN: LocationName="Red Right Side"
 LocationName="Red Right Side"
 
 [ZoneInfo6]
+; EN: LocationName="Blue Right Staircase"
 LocationName="Blue Right Staircase"
 
 [ZoneInfo61]
+; EN: LocationName="Red Left Side"
 LocationName="Red Left Side"
 
 [ZoneInfo62]
+; EN: LocationName="Red Left Side"
 LocationName="Red Left Side"
 
 [ZoneInfo7]
+; EN: LocationName="Blue Left Antechamber"
 LocationName="Blue Left Antechamber"
 
 [ZoneInfo8]
+; EN: LocationName="Blue Left Antechamber"
 LocationName="Blue Left Antechamber"
 
 [ZoneInfo9]
+; EN: LocationName="Central Courtyard"
 LocationName="Central Courtyard"
 

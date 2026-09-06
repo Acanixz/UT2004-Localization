@@ -1,51 +1,68 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Bifrost Bases"
 Title="Bifrost Bases"
 
 [LevelSummary]
+; EN: Title="Bifrost Bases"
 Title="Bifrost Bases"
 
 [ZoneInfo1]
+; EN: LocationName="BLUE Front Room"
 LocationName="BLUE Front Room"
 
 [ZoneInfo12]
+; EN: LocationName="RED Front Room"
 LocationName="RED Front Room"
 
 [ZoneInfo13]
+; EN: LocationName="Outside"
 LocationName="Outside"
 
 [ZoneInfo14]
+; EN: LocationName="RED Hallway"
 LocationName="RED Hallway"
 
 [ZoneInfo15]
+; EN: LocationName="RED Bomb Room"
 LocationName="RED Bomb Room"
 
 [ZoneInfo16]
+; EN: LocationName="BLUE Hallway"
 LocationName="BLUE Hallway"
 
 [ZoneInfo17]
+; EN: LocationName="BLUE Bomb Room"
 LocationName="BLUE Bomb Room"
 
 [ZoneInfo2]
+; EN: LocationName="RED Bomb Room"
 LocationName="RED Bomb Room"
 
 [ZoneInfo4]
+; EN: LocationName="BLUE Hallway"
 LocationName="BLUE Hallway"
 
 [ZoneInfo5]
+; EN: LocationName="RED Hallway"
 LocationName="RED Hallway"
 
 [ZoneInfo6]
+; EN: LocationName="BLUE Bomb Room"
 LocationName="BLUE Bomb Room"
 
 [ZoneInfo7]
+; EN: LocationName="RED Entrance"
 LocationName="RED Entrance"
 
 [ZoneInfo9]
+; EN: LocationName="BLUE Entrance"
 LocationName="BLUE Entrance"
 
 [xBombDelivery0]
+; EN: DestructionMessage="Red Team Scores!"
 DestructionMessage="Red Team Scores!"
 
 [xBombDelivery1]
+; EN: DestructionMessage="Blue Team Scores!"
 DestructionMessage="Blue Team Scores!"
 

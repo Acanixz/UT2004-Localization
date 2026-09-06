@@ -1,6 +1,8 @@
-[Public]
+﻿[Public]
+; EN: Preferences=(Caption="Webserver",Parent="Networking",Class=UWeb.WebServer)
 Preferences=(Caption="Webserver",Parent="Networking",Class=UWeb.WebServer)
 
 [WebResponse]
+; EN: CharSet="iso-8859-1"
 CharSet="iso-8859-1"
 

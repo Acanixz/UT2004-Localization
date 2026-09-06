@@ -1,34 +1,46 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Colossus"
 Title="Colossus"
 
 [LevelSummary]
+; EN: Title="Colossus"
 Title="Colossus"
+; EN: Description="By taking advantage of the fast moving high ground and the relative cover of the low, tactically proficient players can make their way to the flag practically unscathed.  Returning with the flag, on the other hand, is another matter altogether."
 Description="By taking advantage of the fast moving high ground and the relative cover of the low, tactically proficient players can make their way to the flag practically unscathed.  Returning with the flag, on the other hand, is another matter altogether."
 
 [Volume0]
+; EN: LocationName="Blue Rear Base"
 LocationName="Blue Rear Base"
 
 [Volume1]
+; EN: LocationName="Blue Forward Base"
 LocationName="Blue Forward Base"
 
 [Volume2]
+; EN: LocationName="Neutral Zone"
 LocationName="Neutral Zone"
 
 [Volume3]
+; EN: LocationName="Red Forward Base"
 LocationName="Red Forward Base"
 
 [Volume4]
+; EN: LocationName="Red Rear Base"
 LocationName="Red Rear Base"
 
 [ZoneInfo1]
+; EN: LocationName="Red Bunker"
 LocationName="Red Bunker"
 
 [ZoneInfo2]
+; EN: LocationName="Blue Bunker"
 LocationName="Blue Bunker"
 
 [xBlueFlagBase0]
+; EN: ObjectiveName="BlueFlagBase"
 ObjectiveName="BlueFlagBase"
 
 [xRedFlagBase0]
+; EN: ObjectiveName="RedFlagBase"
 ObjectiveName="RedFlagBase"
 

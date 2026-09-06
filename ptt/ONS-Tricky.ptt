@@ -1,70 +1,94 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Tricky"
 Title="Tricky"
 
 [LevelSummary]
+; EN: Title="Tricky"
 Title="Tricky"
+; EN: Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
 Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
 
 [MessageTrigger1]
+; EN: Message="cleared the Holy Shit Gap!"
 Message="cleared the Holy Shit Gap!"
 
 [MessageTrigger10]
+; EN: Message="cleared the Ludicrous Gap!"
 Message="cleared the Ludicrous Gap!"
 
 [MessageTrigger11]
+; EN: Message="All Gaps cleared!"
 Message="All Gaps cleared!"
 
 [MessageTrigger12]
+; EN: Message="clears all Gaps!"
 Message="clears all Gaps!"
 
 [MessageTrigger2]
+; EN: Message="Holy Shit Gap!"
 Message="Holy Shit Gap!"
 
 [MessageTrigger3]
+; EN: Message="Ben's sweet Gap"
 Message="Ben's sweet Gap"
 
 [MessageTrigger4]
+; EN: Message="Cleared Ben's sweet Gap!"
 Message="Cleared Ben's sweet Gap!"
 
 [MessageTrigger5]
+; EN: Message="Unreal Gap!"
 Message="Unreal Gap!"
 
 [MessageTrigger6]
+; EN: Message="cleared the Unreal Gap!"
 Message="cleared the Unreal Gap!"
 
 [MessageTrigger7]
+; EN: Message="M-M-M-Monster Gap!"
 Message="M-M-M-Monster Gap!"
 
 [MessageTrigger8]
+; EN: Message="cleared the M-M-M-Monster Gap!"
 Message="cleared the M-M-M-Monster Gap!"
 
 [MessageTrigger9]
+; EN: Message="Ludicrous Gap!"
 Message="Ludicrous Gap!"
 
 [Volume10]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume11]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume12]
+; EN: LocationName="Tower"
 LocationName="Tower"
 
 [Volume5]
+; EN: LocationName="Red Prime Node (3)"
 LocationName="Red Prime Node (3)"
 
 [Volume6]
+; EN: LocationName="Blue Prime Node (2)"
 LocationName="Blue Prime Node (2)"
 
 [Volume7]
+; EN: LocationName="Southwest Node (4)"
 LocationName="Southwest Node (4)"
 
 [Volume8]
+; EN: LocationName="Southeast Node (5)"
 LocationName="Southeast Node (5)"
 
 [Volume9]
+; EN: LocationName="Center Node (1)"
 LocationName="Center Node (1)"
 
 [ZoneInfo1]
+; EN: LocationName="Outside"
 LocationName="Outside"
 

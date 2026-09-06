@@ -1,22 +1,30 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="DesertIsle"
 Title="DesertIsle"
 
 [LevelSummary]
+; EN: Title="DesertIsle"
 Title="DesertIsle"
+; EN: Description="Under a searing sun, one little stream means life itself to this island of green in an ocean of sand. What will be left when its waters run red?"
 Description="Under a searing sun, one little stream means life itself to this island of green in an ocean of sand. What will be left when its waters run red?"
 
 [Volume0]
+; EN: LocationName="River End"
 LocationName="River End"
 
 [Volume1]
+; EN: LocationName="The Hill"
 LocationName="The Hill"
 
 [Volume2]
+; EN: LocationName="River Start"
 LocationName="River Start"
 
 [Volume3]
+; EN: LocationName="River Middle"
 LocationName="River Middle"
 
 [ZoneInfo0]
+; EN: LocationName="=Desert="
 LocationName="=Desert="
 

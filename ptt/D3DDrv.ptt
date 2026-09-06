@@ -1,7 +1,11 @@
-[Public]
+﻿[Public]
+; EN: Object=(Name=D3DDrv.D3DRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)
 Object=(Name=D3DDrv.D3DRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)
+; EN: Preferences=(Caption="Direct3D",Parent="Rendering",Class=D3DDrv.D3DRenderDevice,Immediate=True)
 Preferences=(Caption="Direct3D",Parent="Rendering",Class=D3DDrv.D3DRenderDevice,Immediate=True)
 
 [D3DRenderDevice]
+; EN: ClassCaption="Direct3D"
 ClassCaption="Direct3D"
+; EN: AskInstalled="Do you want to use Direct3D?"
 AskInstalled="Do you want to use Direct3D?"

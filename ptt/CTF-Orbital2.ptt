@@ -1,90 +1,120 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Orbital2"
 Title="Orbital2"
 
 [LevelSummary]
+; EN: Title="Orbital2"
 Title="Orbital2"
 
 [ZoneInfo0]
+; EN: LocationName="Blue Flag Room"
 LocationName="Blue Flag Room"
 
 [ZoneInfo1]
+; EN: LocationName="Blue Flag Room"
 LocationName="Blue Flag Room"
 
 [ZoneInfo10]
+; EN: LocationName="Middle Room"
 LocationName="Middle Room"
 
 [ZoneInfo11]
+; EN: LocationName="Blue Minigun Halls"
 LocationName="Blue Minigun Halls"
 
 [ZoneInfo12]
+; EN: LocationName="Blue Lower Halls"
 LocationName="Blue Lower Halls"
 
 [ZoneInfo13]
+; EN: LocationName="Blue Upper Halls"
 LocationName="Blue Upper Halls"
 
 [ZoneInfo14]
+; EN: LocationName="Blue Lower Halls"
 LocationName="Blue Lower Halls"
 
 [ZoneInfo15]
+; EN: LocationName="Red Linkgun Hall"
 LocationName="Red Linkgun Hall"
 
 [ZoneInfo16]
+; EN: LocationName="Red Upper Halls"
 LocationName="Red Upper Halls"
 
 [ZoneInfo17]
+; EN: LocationName="Red Flag Room"
 LocationName="Red Flag Room"
 
 [ZoneInfo18]
+; EN: LocationName="Red Upper Halls"
 LocationName="Red Upper Halls"
 
 [ZoneInfo19]
+; EN: LocationName="Red Flak Room"
 LocationName="Red Flak Room"
 
 [ZoneInfo2]
+; EN: LocationName="Blue Flag Room"
 LocationName="Blue Flag Room"
 
 [ZoneInfo20]
+; EN: LocationName="Red Lower Halls"
 LocationName="Red Lower Halls"
 
 [ZoneInfo21]
+; EN: LocationName="Red Minigun Halls"
 LocationName="Red Minigun Halls"
 
 [ZoneInfo22]
+; EN: LocationName="Red Flag Room"
 LocationName="Red Flag Room"
 
 [ZoneInfo23]
+; EN: LocationName="Red Flag Room"
 LocationName="Red Flag Room"
 
 [ZoneInfo24]
+; EN: LocationName="Red Flag Room"
 LocationName="Red Flag Room"
 
 [ZoneInfo25]
+; EN: LocationName="Red Lower Halls"
 LocationName="Red Lower Halls"
 
 [ZoneInfo26]
+; EN: LocationName="Red Upper Halls"
 LocationName="Red Upper Halls"
 
 [ZoneInfo27]
+; EN: LocationName="Red Minigun Halls"
 LocationName="Red Minigun Halls"
 
 [ZoneInfo3]
+; EN: LocationName="Blue Flag Room"
 LocationName="Blue Flag Room"
 
 [ZoneInfo4]
+; EN: LocationName="Middle Room"
 LocationName="Middle Room"
 
 [ZoneInfo5]
+; EN: LocationName="Blue Upper Halls"
 LocationName="Blue Upper Halls"
 
 [ZoneInfo6]
+; EN: LocationName="Blue Flak Room"
 LocationName="Blue Flak Room"
 
 [ZoneInfo7]
+; EN: LocationName="Blue Minigun Halls"
 LocationName="Blue Minigun Halls"
 
 [ZoneInfo8]
+; EN: LocationName="Blue Upper Halls"
 LocationName="Blue Upper Halls"
 
 [ZoneInfo9]
+; EN: LocationName="Blue Upper Halls"
 LocationName="Blue Upper Halls"
 

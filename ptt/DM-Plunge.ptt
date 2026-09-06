@@ -1,48 +1,64 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Plunge"
 Title="Plunge"
 
 [LevelSummary]
+; EN: Title="Plunge"
 Title="Plunge"
 
 [PhysicsVolume0]
+; EN: LocationName="8 Miles High"
 LocationName="8 Miles High"
 
 [ZoneInfo1]
+; EN: LocationName="Outside"
 LocationName="Outside"
 
 [ZoneInfo2]
+; EN: LocationName="Green Tower Corridor"
 LocationName="Green Tower Corridor"
 
 [ZoneInfo4]
+; EN: LocationName="Pink Tower - Bottom"
 LocationName="Pink Tower - Bottom"
 
 [ZoneInfo6]
+; EN: LocationName="Green Tower Corridor"
 LocationName="Green Tower Corridor"
 
 [ZoneInfo7]
+; EN: LocationName="Green Tower Corridor"
 LocationName="Green Tower Corridor"
 
 [ZoneInfo8]
+; EN: LocationName="Green Tower Corridor"
 LocationName="Green Tower Corridor"
 
 [ZoneInfo13]
+; EN: LocationName="Yellow Tower Corridor"
 LocationName="Yellow Tower Corridor"
 
 [ZoneInfo21]
+; EN: LocationName="Yellow Tower Corridor"
 LocationName="Yellow Tower Corridor"
 
 [ZoneInfo22]
+; EN: LocationName="Yellow Tower Corridor"
 LocationName="Yellow Tower Corridor"
 
 [ZoneInfo23]
+; EN: LocationName="Yellow Tower Corridor"
 LocationName="Yellow Tower Corridor"
 
 [ZoneInfo24]
+; EN: LocationName="Yellow Tower Corridor"
 LocationName="Yellow Tower Corridor"
 
 [ZoneInfo25]
+; EN: LocationName="Yellow Tower Boiler"
 LocationName="Yellow Tower Boiler"
 
 [ZoneInfo27]
+; EN: LocationName="Yellow Tower Spawn"
 LocationName="Yellow Tower Spawn"
 

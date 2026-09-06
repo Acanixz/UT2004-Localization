@@ -1,81 +1,108 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Facing Worlds 3"
 Title="Facing Worlds 3"
 
 [LevelSummary]
+; EN: Title="Facing Worlds 3"
 Title="Facing Worlds 3"
 
 [Volume0]
+; EN: LocationName="Red Level 3"
 LocationName="Red Level 3"
 
 [Volume1]
+; EN: LocationName="Blue Level 3"
 LocationName="Blue Level 3"
 
 [Volume10]
+; EN: LocationName="Red Shield"
 LocationName="Red Shield"
 
 [Volume11]
+; EN: LocationName="Blue Shield"
 LocationName="Blue Shield"
 
 [Volume12]
+; EN: LocationName="Red Backdoor"
 LocationName="Red Backdoor"
 
 [Volume13]
+; EN: LocationName="Blue Backdoor"
 LocationName="Blue Backdoor"
 
 [Volume2]
+; EN: LocationName="Blue Level 2"
 LocationName="Blue Level 2"
 
 [Volume3]
+; EN: LocationName="Red Level2"
 LocationName="Red Level2"
 
 [Volume4]
+; EN: LocationName="Blue Flak"
 LocationName="Blue Flak"
 
 [Volume5]
+; EN: LocationName="Red Flak"
 LocationName="Red Flak"
 
 [Volume6]
+; EN: LocationName="Blue Flak"
 LocationName="Blue Flak"
 
 [Volume7]
+; EN: LocationName="Blue Flak"
 LocationName="Blue Flak"
 
 [Volume8]
+; EN: LocationName="Red Flak"
 LocationName="Red Flak"
 
 [Volume9]
+; EN: LocationName="Red Flak"
 LocationName="Red Flak"
 
 [ZoneInfo1]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [ZoneInfo10]
+; EN: LocationName="Red Minigun"
 LocationName="Red Minigun"
 
 [ZoneInfo11]
+; EN: LocationName="Red Pillars"
 LocationName="Red Pillars"
 
 [ZoneInfo2]
+; EN: LocationName="Blue Minigun"
 LocationName="Blue Minigun"
 
 [ZoneInfo3]
+; EN: LocationName="Blue Minigun"
 LocationName="Blue Minigun"
 
 [ZoneInfo4]
+; EN: LocationName="Blue Pillars"
 LocationName="Blue Pillars"
 
 [ZoneInfo5]
+; EN: LocationName="Blue Minigun"
 LocationName="Blue Minigun"
 
 [ZoneInfo6]
+; EN: LocationName="Outside"
 LocationName="Outside"
 
 [ZoneInfo7]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [ZoneInfo8]
+; EN: LocationName="Red Minigun"
 LocationName="Red Minigun"
 
 [ZoneInfo9]
+; EN: LocationName="Red Minigun"
 LocationName="Red Minigun"
 

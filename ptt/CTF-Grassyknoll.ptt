@@ -1,37 +1,50 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Grassyknoll"
 Title="Grassyknoll"
 
 [LevelSummary]
+; EN: Title="Grassyknoll"
 Title="Grassyknoll"
+; EN: Description="A warm breeze through the trees brings the stink of hot metal and sulphur, and the coppery scent of blood. Somewhere ahead crazed laughter echoes the report of a plasma rifle, taunting an unseen enemy. The sizzle of scorched flesh is the only answer. There's no magic bullets here, no conspiracy, just a gauntlet of enemies to overcome and finally bring the flag home. "
 Description="A warm breeze through the trees brings the stink of hot metal and sulphur, and the coppery scent of blood. Somewhere ahead crazed laughter echoes the report of a plasma rifle, taunting an unseen enemy. The sizzle of scorched flesh is the only answer. There's no magic bullets here, no conspiracy, just a gauntlet of enemies to overcome and finally bring the flag home. "
 
 [LimitationVolume1]
+; EN: LocationName="MineField"
 LocationName="MineField"
 
 [PhysicsVolume12]
+; EN: LocationName="Red Outdoors"
 LocationName="Red Outdoors"
 
 [PhysicsVolume13]
+; EN: LocationName="Blue Outdoors"
 LocationName="Blue Outdoors"
 
 [Volume0]
+; EN: LocationName="Blue Adrenaline"
 LocationName="Blue Adrenaline"
 
 [Volume1]
+; EN: LocationName="Sniper Forest"
 LocationName="Sniper Forest"
 
 [Volume2]
+; EN: LocationName="Super Shield"
 LocationName="Super Shield"
 
 [Volume3]
+; EN: LocationName="Red Adrenaline"
 LocationName="Red Adrenaline"
 
 [Volume4]
+; EN: LocationName="Double Damage"
 LocationName="Double Damage"
 
 [Volume5]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume6]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 

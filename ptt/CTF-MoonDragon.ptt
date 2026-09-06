@@ -1,52 +1,70 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Moon Dragon"
 Title="Moon Dragon"
 
 [LevelSummary]
+; EN: Title="Moon Dragon"
 Title="Moon Dragon"
+; EN: Description="In the depths of ancient Korea, hidden high up in the Mountain of the Moon Dragon, battles rage between brave warriors."
 Description="In the depths of ancient Korea, hidden high up in the Mountain of the Moon Dragon, battles rage between brave warriors."
 
 [Volume10]
+; EN: LocationName="Red Flag Room"
 LocationName="Red Flag Room"
 
 [Volume11]
+; EN: LocationName="Red Base Entrances"
 LocationName="Red Base Entrances"
 
 [Volume12]
+; EN: LocationName="Central Cave"
 LocationName="Central Cave"
 
 [Volume14]
+; EN: LocationName="Blue Shield Side"
 LocationName="Blue Shield Side"
 
 [Volume17]
+; EN: LocationName="Blue Base Entrances"
 LocationName="Blue Base Entrances"
 
 [Volume18]
+; EN: LocationName="Blue Center"
 LocationName="Blue Center"
 
 [Volume19]
+; EN: LocationName="Blue Fortress Area"
 LocationName="Blue Fortress Area"
 
 [Volume20]
+; EN: LocationName="Red Fortress Area"
 LocationName="Red Fortress Area"
 
 [Volume21]
+; EN: LocationName="Central Cave"
 LocationName="Central Cave"
 
 [Volume3]
+; EN: LocationName="Red Center"
 LocationName="Red Center"
 
 [Volume6]
+; EN: LocationName="Red Shield Side"
 LocationName="Red Shield Side"
 
 [Volume7]
+; EN: LocationName="Red Side Route"
 LocationName="Red Side Route"
 
 [Volume8]
+; EN: LocationName="Blue Side Route"
 LocationName="Blue Side Route"
 
 [Volume9]
+; EN: LocationName="Blue Flag Room"
 LocationName="Blue Flag Room"
 
 [xBlueFlagBase1]
+; EN: ObjectiveName="BlueFlag"
 ObjectiveName="BlueFlag"
 

@@ -1,54 +1,72 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Domination Tutorial"
 Title="Domination Tutorial"
 
 [LevelSummary]
+; EN: Title="Domination Tutorial"
 Title="Domination Tutorial"
 
 [ZoneInfo0]
+; EN: LocationName="InsideCenter"
 LocationName="InsideCenter"
 
 [ZoneInfo1]
+; EN: LocationName="BackHallway_B"
 LocationName="BackHallway_B"
 
 [ZoneInfo14]
+; EN: LocationName="Outside"
 LocationName="Outside"
 
 [ZoneInfo15]
+; EN: LocationName="InsideCenter"
 LocationName="InsideCenter"
 
 [ZoneInfo16]
+; EN: LocationName="SpawnBlue"
 LocationName="SpawnBlue"
 
 [ZoneInfo17]
+; EN: LocationName="FrontHallway_A"
 LocationName="FrontHallway_A"
 
 [ZoneInfo18]
+; EN: LocationName="FrontHallway_A"
 LocationName="FrontHallway_A"
 
 [ZoneInfo19]
+; EN: LocationName="Room_A"
 LocationName="Room_A"
 
 [ZoneInfo20]
+; EN: LocationName="BackHallway_A"
 LocationName="BackHallway_A"
 
 [ZoneInfo3]
+; EN: LocationName="InsideCenter"
 LocationName="InsideCenter"
 
 [ZoneInfo4]
+; EN: LocationName="InsideCenter"
 LocationName="InsideCenter"
 
 [ZoneInfo5]
+; EN: LocationName="InsideCenter"
 LocationName="InsideCenter"
 
 [ZoneInfo6]
+; EN: LocationName="FrontHallway_B"
 LocationName="FrontHallway_B"
 
 [ZoneInfo7]
+; EN: LocationName="SpawnRed"
 LocationName="SpawnRed"
 
 [ZoneInfo8]
+; EN: LocationName="FrontHallway_B"
 LocationName="FrontHallway_B"
 
 [ZoneInfo9]
+; EN: LocationName="Room_B"
 LocationName="Room_B"
 

@@ -1,36 +1,48 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Ice Fields"
 Title="Ice Fields"
 
 [LevelSummary]
+; EN: Title="Ice Fields"
 Title="Ice Fields"
 
 [Volume0]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume1]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume2]
+; EN: LocationName="Red Base Entrance"
 LocationName="Red Base Entrance"
 
 [Volume3]
+; EN: LocationName="Below Red Base"
 LocationName="Below Red Base"
 
 [Volume4]
+; EN: LocationName="Below Red Base"
 LocationName="Below Red Base"
 
 [Volume5]
+; EN: LocationName="Blue Base Entrance"
 LocationName="Blue Base Entrance"
 
 [Volume6]
+; EN: LocationName="Middle Area"
 LocationName="Middle Area"
 
 [Volume7]
+; EN: LocationName="Below Blue Base"
 LocationName="Below Blue Base"
 
 [Volume8]
+; EN: LocationName="Below Blue Base"
 LocationName="Below Blue Base"
 
 [Volume9]
+; EN: LocationName="Super Shield Area"
 LocationName="Super Shield Area"
 

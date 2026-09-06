@@ -1,119 +1,160 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Slaughterhouse"
 Title="Slaughterhouse"
+; EN: LevelEnterText="The Slaughterhouse"
 LevelEnterText="The Slaughterhouse"
 
 [LevelSummary]
+; EN: Title="Slaughterhouse"
 Title="Slaughterhouse"
+; EN: LevelEnterText="The Slaughterhouse"
 LevelEnterText="The Slaughterhouse"
 
 [ZoneInfo0]
+; EN: LocationName="Blue Meat Storage"
 LocationName="Blue Meat Storage"
 
 [ZoneInfo1]
+; EN: LocationName="Blue Spawnroom Beta"
 LocationName="Blue Spawnroom Beta"
 
 [ZoneInfo10]
+; EN: LocationName="Blue Drain Room"
 LocationName="Blue Drain Room"
 
 [ZoneInfo11]
+; EN: LocationName="Blue Meat Storage Entrance"
 LocationName="Blue Meat Storage Entrance"
 
 [ZoneInfo12]
+; EN: LocationName="Red Freezer"
 LocationName="Red Freezer"
 
 [ZoneInfo13]
+; EN: LocationName="Red Bomb Gate"
 LocationName="Red Bomb Gate"
 
 [ZoneInfo14]
+; EN: LocationName="Red Spawnroom Beta"
 LocationName="Red Spawnroom Beta"
 
 [ZoneInfo15]
+; EN: LocationName="Red Back Hallway"
 LocationName="Red Back Hallway"
 
 [ZoneInfo16]
+; EN: LocationName="Red Fountains"
 LocationName="Red Fountains"
 
 [ZoneInfo17]
+; EN: LocationName="Blue Spawnroom Alpha"
 LocationName="Blue Spawnroom Alpha"
 
 [ZoneInfo18]
+; EN: LocationName="Red Chapel"
 LocationName="Red Chapel"
 
 [ZoneInfo19]
+; EN: LocationName="Red Drainage"
 LocationName="Red Drainage"
 
 [ZoneInfo2]
+; EN: LocationName="Blue Bomb Gate"
 LocationName="Blue Bomb Gate"
 
 [ZoneInfo20]
+; EN: LocationName="This guy's Chuck.  Ground Chuck in the Blue room"
 LocationName="This guy's Chuck.  Ground Chuck in the Blue room"
 
 [ZoneInfo21]
+; EN: LocationName="Red Spawnroom Alpha"
 LocationName="Red Spawnroom Alpha"
 
 [ZoneInfo22]
+; EN: LocationName="Red Saw Hallway"
 LocationName="Red Saw Hallway"
 
 [ZoneInfo23]
+; EN: LocationName="Blue Courtyard"
 LocationName="Blue Courtyard"
 
 [ZoneInfo24]
+; EN: LocationName="OOoh, he's dead in the Red"
 LocationName="OOoh, he's dead in the Red"
 
 [ZoneInfo25]
+; EN: LocationName="Blue Courtyard"
 LocationName="Blue Courtyard"
 
 [ZoneInfo26]
+; EN: LocationName="Blue Main Hall"
 LocationName="Blue Main Hall"
 
 [ZoneInfo27]
+; EN: LocationName="Blue Saw Hallway"
 LocationName="Blue Saw Hallway"
 
 [ZoneInfo28]
+; EN: LocationName="Blue Meat Storage"
 LocationName="Blue Meat Storage"
 
 [ZoneInfo29]
+; EN: LocationName="Red Saw Hallway"
 LocationName="Red Saw Hallway"
 
 [ZoneInfo3]
+; EN: LocationName="Blue Saw Hallway"
 LocationName="Blue Saw Hallway"
 
 [ZoneInfo30]
+; EN: LocationName="Red Main Hall"
 LocationName="Red Main Hall"
 
 [ZoneInfo35]
+; EN: LocationName="Red Pipe"
 LocationName="Red Pipe"
 
 [ZoneInfo36]
+; EN: LocationName="Red Courtyard"
 LocationName="Red Courtyard"
 
 [ZoneInfo37]
+; EN: LocationName="Blue Pipe"
 LocationName="Blue Pipe"
 
 [ZoneInfo38]
+; EN: LocationName="Red Freezer Entrance"
 LocationName="Red Freezer Entrance"
 
 [ZoneInfo4]
+; EN: LocationName="Blue Chapel"
 LocationName="Blue Chapel"
 
 [ZoneInfo5]
+; EN: LocationName="Blue Fountains"
 LocationName="Blue Fountains"
 
 [ZoneInfo6]
+; EN: LocationName="Blue Back Hallway"
 LocationName="Blue Back Hallway"
 
 [ZoneInfo7]
+; EN: LocationName="Bomb Courtyard"
 LocationName="Bomb Courtyard"
 
 [ZoneInfo8]
+; EN: LocationName="Red Courtyard"
 LocationName="Red Courtyard"
 
 [ZoneInfo9]
+; EN: LocationName="Red Freezer"
 LocationName="Red Freezer"
 
 [xBombDelivery0]
+; EN: ObjectiveName="Blue Bombgoal"
 ObjectiveName="Blue Bombgoal"
 
 [xBombDelivery2]
+; EN: ObjectiveName="Red Bombgoal"
 ObjectiveName="Red Bombgoal"
 

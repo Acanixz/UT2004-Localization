@@ -1,40 +1,54 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Pistola Battle Grounds"
 Title="Pistola Battle Grounds"
 
 [LevelSummary]
+; EN: Title="Pistola Battle Grounds"
 Title="Pistola Battle Grounds"
+; EN: Description="This twin complex of concrete and metal combines the beauty of nature with the harsh lines of industrial architecture to create a fierce battle arena.  Where is my Pistola?"
 Description="This twin complex of concrete and metal combines the beauty of nature with the harsh lines of industrial architecture to create a fierce battle arena.  Where is my Pistola?"
 
 [ZoneInfo0]
+; EN: LocationName="Outside"
 LocationName="Outside"
 
 [ZoneInfo1]
+; EN: LocationName="Blue Flagroom"
 LocationName="Blue Flagroom"
 
 [ZoneInfo11]
+; EN: LocationName="Red Flagroom"
 LocationName="Red Flagroom"
 
 [ZoneInfo12]
+; EN: LocationName="Red Interials A"
 LocationName="Red Interials A"
 
 [ZoneInfo13]
+; EN: LocationName="Red Interials B"
 LocationName="Red Interials B"
 
 [ZoneInfo14]
+; EN: LocationName="Red Flak Foyer"
 LocationName="Red Flak Foyer"
 
 [ZoneInfo15]
+; EN: LocationName="Red Foyer A"
 LocationName="Red Foyer A"
 
 [ZoneInfo2]
+; EN: LocationName="Blue Interials A"
 LocationName="Blue Interials A"
 
 [ZoneInfo3]
+; EN: LocationName="Blue Interials B"
 LocationName="Blue Interials B"
 
 [ZoneInfo4]
+; EN: LocationName="Blue Flak Foyer"
 LocationName="Blue Flak Foyer"
 
 [ZoneInfo5]
+; EN: LocationName="Blue Foyer A"
 LocationName="Blue Foyer A"
 

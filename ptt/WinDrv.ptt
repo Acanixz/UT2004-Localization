@@ -1,21 +1,35 @@
-[Public]
+﻿[Public]
+; EN: Class=(Class=WinDrv.WindowsClient,SuperClass=Engine.Client)
 Class=(Class=WinDrv.WindowsClient,SuperClass=Engine.Client)
+; EN: Preferences=(Caption="Windows",Parent="Display",Class=WinDrv.WindowsClient,Immediate=True,Category=Display)
 Preferences=(Caption="Windows",Parent="Display",Class=WinDrv.WindowsClient,Immediate=True,Category=Display)
+; EN: Preferences=(Caption="Windows",Parent="Joystick",Class=WinDrv.WindowsClient,Immediate=True,Category=Joystick)
 Preferences=(Caption="Windows",Parent="Joystick",Class=WinDrv.WindowsClient,Immediate=True,Category=Joystick)
 
 [Errors]
+; EN: Failed3D="3d hardware initialization failed"
 Failed3D="3d hardware initialization failed"
+; EN: DDrawMode="DirectDraw was unable to set the requested video mode"
 DDrawMode="DirectDraw was unable to set the requested video mode"
 
 [General]
+; EN: ViewPersp="Perspective map"
 ViewPersp="Perspective map"
+; EN: ViewXY="Overhead map"
 ViewXY="Overhead map"
+; EN: ViewXZ="XZ map"
 ViewXZ="XZ map"
+; EN: ViewYZ="YZ map"
 ViewYZ="YZ map"
+; EN: ViewOther="Viewport"
 ViewOther="Viewport"
+; EN: Color16="&16-bit color"
 Color16="&16-bit color"
+; EN: Color32="&32-bit color"
 Color32="&32-bit color"
+; EN: AdvancedOptions="Advanced Options"
 AdvancedOptions="Advanced Options"
 
 [WindowsClient]
+; EN: ClassCaption="Standard Windows Manager"
 ClassCaption="Standard Windows Manager"

@@ -1,169 +1,313 @@
-[Public]
+﻿[Public]
+; EN: Object=(Name=Editor.MasterCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.MasterCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.MakeCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.MakeCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.ConformCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ConformCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.BatchExportCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.BatchExportCommandlet,Class=Class,MetaClass=Core.Commandlet)
 ;Object=(Name=Editor.MergeDXTCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.PackageFlagCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.PackageFlagCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.DataRipCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.DataRipCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.PkgCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.PkgCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.MapConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.MapConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.DXTConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.DXTConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.AnalyzeContentCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.AnalyzeContentCommandlet,Class=Class,MetaClass=Core.Commandlet)
 ;Object=(Name=PSX2Convert.PSX2ConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
 ;Object=(Name=PSX2Convert.PSX2MusicCommandlet,Class=Class,MetaClass=Core.Commandlet)
 ;Object=(Name=GCNConvert.GCNConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.AnalyzeBuildCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.AnalyzeBuildCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.ConvertMaterialCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ConvertMaterialCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.TextureLODCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.TextureLODCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.RebuildCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.RebuildCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.DumpIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.DumpIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.SetNormalLODCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.SetNormalLODCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.DumpConfigCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.DumpConfigCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.ClassFlagCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ClassFlagCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.BatchImportCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.BatchImportCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.BatchingSummary,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.BatchingSummary,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.CheckEmitters,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.CheckEmitters,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.CheckSounds,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.CheckSounds,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.CheckStaticMeshes,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.CheckStaticMeshes,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.CheckTextures,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.CheckTextures,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.CheckUnicodeCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.CheckUnicodeCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.ChecksumPackageCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ChecksumPackageCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.CompareIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.CompareIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.CompressTextures,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.CompressTextures,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.CutdownContentCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.CutdownContentCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.GroupRepairCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.GroupRepairCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.ListExports,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ListExports,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.LoadPackage,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.LoadPackage,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.PackageGenerationCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.PackageGenerationCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.MapKillZ,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.MapKillZ,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.MergeIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.MergeIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.ObjectRenameCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ObjectRenameCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.PS2ConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.PS2ConvertCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.RearrangeIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.RearrangeIntCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.SoundConvert,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.SoundConvert,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.SoundLocCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.SoundLocCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.StaticMeshConvert,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.StaticMeshConvert,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.StripSourceCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.StripSourceCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.SurfaceTypeCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.SurfaceTypeCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.TextureInfoCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.TextureInfoCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.TextureStripCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.TextureStripCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Object=(Name=Editor.UpdateUMODCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.UpdateUMODCommandlet,Class=Class,MetaClass=Core.Commandlet)
+; EN: Preferences="(Caption="Advanced",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Advanced)"
 Preferences="(Caption="Advanced",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Advanced)"
+; EN: Preferences="(Caption="Colors",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Colors)"
 Preferences="(Caption="Colors",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Colors)"
+; EN: Preferences="(Caption="Grid",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Grid)"
 Preferences="(Caption="Grid",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Grid)"
+; EN: Preferences="(Caption="Rotation Grid",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=RotationGrid)"
 Preferences="(Caption="Rotation Grid",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=RotationGrid)"
 
 [PkgCommandlet]
+; EN: HelpCmd="pkg"
 HelpCmd="pkg"
+; EN: HelpOneLiner="Imports/Exports data to/from packages using directory structures."
 HelpOneLiner="Imports/Exports data to/from packages using directory structures."
+; EN: HelpUsage="pkg [import/export] [texture/sound] [packagename] [directory]"
 HelpUsage="pkg [import/export] [texture/sound] [packagename] [directory]"
+; EN: HelpParm[0]="import/export"
 HelpParm[0]="import/export"
+; EN: HelpDesc[0]="What you are attempting to do with the data"
 HelpDesc[0]="What you are attempting to do with the data"
+; EN: HelpParm[1]="texture/sound"
 HelpParm[1]="texture/sound"
+; EN: HelpDesc[1]="The type of package you are working with"
 HelpDesc[1]="The type of package you are working with"
+; EN: HelpParm[2]="packagename"
 HelpParm[2]="packagename"
+; EN: HelpDesc[2]="The package you are creating/exporting from"
 HelpDesc[2]="The package you are creating/exporting from"
+; EN: HelpParm[3]="directory"
 HelpParm[3]="directory"
+; EN: HelpDesc[3]="The directory to read from/write to"
 HelpDesc[3]="The directory to read from/write to"
 
 [MasterCommandlet]
+; EN: HelpCmd="master"
 HelpCmd="master"
+; EN: HelpOneLiner="Build master installer files"
 HelpOneLiner="Build master installer files"
+; EN: HelpUsage="master [-option...] [parm=value]..."
 HelpUsage="master [-option...] [parm=value]..."
+; EN: HelpParm[0]="MasterPath"
 HelpParm[0]="MasterPath"
+; EN: HelpDesc[0]="Root directory to copy source files from"
 HelpDesc[0]="Root directory to copy source files from"
+; EN: HelpParm[1]="SrcPath"
 HelpParm[1]="SrcPath"
+; EN: HelpDesc[1]="Root directory to copy source (release) files to"
 HelpDesc[1]="Root directory to copy source (release) files to"
+; EN: HelpParm[2]="RefPath"
 HelpParm[2]="RefPath"
+; EN: HelpDesc[2]="Path for delta-compressed path reference"
 HelpDesc[2]="Path for delta-compressed path reference"
 
 [MapConvertCommandlet]
+; EN: HelpCmd="mapconvert"
 HelpCmd="mapconvert"
+; EN: HelpOneLiner="Converts Maps from old format to new (no brush transforms)"
 HelpOneLiner="Converts Maps from old format to new (no brush transforms)"
+; EN: HelpUsage="mapconvert SrcFilename DstFilename"
 HelpUsage="mapconvert SrcFilename DstFilename"
+; EN: HelpParm[0]="SrcFilename"
 HelpParm[0]="SrcFilename"
+; EN: HelpDesc[0]="The map filename to read from"
 HelpDesc[0]="The map filename to read from"
+; EN: HelpParm[1]="DstFilename"
 HelpParm[1]="DstFilename"
+; EN: HelpDesc[1]="The map filename to write to"
 HelpDesc[1]="The map filename to write to"
 
 [MakeCommandlet]
+; EN: HelpCmd="make"
 HelpCmd="make"
+; EN: HelpOneLiner="Rebuild UnrealScript packages"
 HelpOneLiner="Rebuild UnrealScript packages"
+; EN: HelpUsage="make [-option...] [parm=value]..."
 HelpUsage="make [-option...] [parm=value]..."
+; EN: HelpParm[0]="auto"
 HelpParm[0]="auto"
+; EN: HelpDesc[0]="No prompts; assume "yes" to all questions"
 HelpDesc[0]="No prompts; assume "yes" to all questions"
+; EN: HelpParm[1]="nobind"
 HelpParm[1]="nobind"
+; EN: HelpDesc[1]="Don't force native functions to be bound to DLLs"
 HelpDesc[1]="Don't force native functions to be bound to DLLs"
+; EN: HelpParm[2]="silentbuild"
 HelpParm[2]="silentbuild"
+; EN: HelpDesc[2]="Do not display 'Analyzing' & 'Compiling' messages for every class"
 HelpDesc[2]="Do not display 'Analyzing' & 'Compiling' messages for every class"
+; EN: HelpParm[3]="exportcache"
 HelpParm[3]="exportcache"
+; EN: HelpDesc[3]="Create cache record files for the compiled package"
 HelpDesc[3]="Create cache record files for the compiled package"
 
 [DXTConvertCommandlet]
+; EN: HelpCmd="dxtconvert"
 HelpCmd="dxtconvert"
+; EN: HelpOneLiner="Convert DXT3/5 textures to DXT1/ RGBA"
 HelpOneLiner="Convert DXT3/5 textures to DXT1/ RGBA"
+; EN: HelpUsage="dxtconvert srcpath destpath"
 HelpUsage="dxtconvert srcpath destpath"
+; EN: HelpParm[0]="srcpath"
 HelpParm[0]="srcpath"
+; EN: HelpDesc[0]="Path containing source files"
 HelpDesc[0]="Path containing source files"
+; EN: HelpParm[1]="destpath"
 HelpParm[1]="destpath"
+; EN: HelpDesc[1]="Path for destination files"
 HelpDesc[1]="Path for destination files"
 
 [DataRipCommandlet]
+; EN: HelpCmd="datarip"
 HelpCmd="datarip"
+; EN: HelpOneLiner="Create a package with Texture, Music and Sound data ripped out."
 HelpOneLiner="Create a package with Texture, Music and Sound data ripped out."
+; EN: HelpUsage="datarip srcpackage.ext dstpackage.ext"
 HelpUsage="datarip srcpackage.ext dstpackage.ext"
+; EN: HelpParm[0]="srcpackage.ext"
 HelpParm[0]="srcpackage.ext"
+; EN: HelpDesc[0]="Source Package"
 HelpDesc[0]="Source Package"
+; EN: HelpParm[1]="dstpackage.ext"
 HelpParm[1]="dstpackage.ext"
+; EN: HelpDesc[1]="Destination Package"
 HelpDesc[1]="Destination Package"
 
 [PackageFlagCommandlet]
+; EN: HelpCmd="packageflag"
 HelpCmd="packageflag"
+; EN: HelpOneLiner="Set package flags in package files"
 HelpOneLiner="Set package flags in package files"
+; EN: HelpUsage="packageflag src.ext [dest.ext <+|->flag [<+|->flag] ...]"
 HelpUsage="packageflag src.ext [dest.ext <+|->flag [<+|->flag] ...]"
+; EN: HelpParm[0]="src.ext"
 HelpParm[0]="src.ext"
+; EN: HelpDesc[0]="Existing package file to load"
 HelpDesc[0]="Existing package file to load"
+; EN: HelpParm[1]="dest.exe"
 HelpParm[1]="dest.exe"
+; EN: HelpDesc[1]="Name of new package file with the new flag settings"
 HelpDesc[1]="Name of new package file with the new flag settings"
+; EN: HelpParm[2]="flag"
 HelpParm[2]="flag"
+; EN: HelpDesc[2]="+ to set a flag, or - to remove a flag, followed by one of:"
 HelpDesc[2]="+ to set a flag, or - to remove a flag, followed by one of:"
+; EN: HelpParm[3]=" "
 HelpParm[3]=" "
+; EN: HelpDesc[3]="  AllowDownload"
 HelpDesc[3]="  AllowDownload"
+; EN: HelpParm[4]=" "
 HelpParm[4]=" "
+; EN: HelpDesc[4]="  ClientOptional"
 HelpDesc[4]="  ClientOptional"
+; EN: HelpParm[5]=" "
 HelpParm[5]=" "
+; EN: HelpDesc[5]="  ServerSideOnly"
 HelpDesc[5]="  ServerSideOnly"
+; EN: HelpParm[6]=" "
 HelpParm[6]=" "
+; EN: HelpDesc[6]="  BrokenLinks"
 HelpDesc[6]="  BrokenLinks"
+; EN: HelpParm[7]=" "
 HelpParm[7]=" "
+; EN: HelpDesc[7]="  Unsecure"
 HelpDesc[7]="  Unsecure"
 
 [ConformCommandlet]
+; EN: HelpCmd="conform"
 HelpCmd="conform"
+; EN: HelpOneLiner="Generate conforming binary files"
 HelpOneLiner="Generate conforming binary files"
+; EN: HelpUsage="conform existing_file.ext old_file.ext"
 HelpUsage="conform existing_file.ext old_file.ext"
+; EN: HelpParm[0]="existingfile.ext"
 HelpParm[0]="existingfile.ext"
+; EN: HelpDesc[0]="Existing binary file to load, conform, and save"
 HelpDesc[0]="Existing binary file to load, conform, and save"
+; EN: HelpParm[1]="oldfile.ext"
 HelpParm[1]="oldfile.ext"
+; EN: HelpDesc[1]="Old file to make source file binary compatible with"
 HelpDesc[1]="Old file to make source file binary compatible with"
 
 [BatchExportCommandlet]
+; EN: HelpCmd="batchexport"
 HelpCmd="batchexport"
+; EN: HelpOneLiner="Export objects in bulk"
 HelpOneLiner="Export objects in bulk"
+; EN: HelpUsage="batchexport package.ext classname export_ext"
 HelpUsage="batchexport package.ext classname export_ext"
+; EN: HelpParm[0]="package.ext"
 HelpParm[0]="package.ext"
+; EN: HelpDesc[0]="Package whose objects you wish to export"
 HelpDesc[0]="Package whose objects you wish to export"
+; EN: HelpParm[1]="classname"
 HelpParm[1]="classname"
+; EN: HelpDesc[1]="Class of object to export"
 HelpDesc[1]="Class of object to export"
+; EN: HelpParm[2]="export_ext"
 HelpParm[2]="export_ext"
+; EN: HelpDesc[2]="File extension to export to"
 HelpDesc[2]="File extension to export to"
+; EN: HelpParm[3]="path"
 HelpParm[3]="path"
+; EN: HelpDesc[3]="Path to export files to, like c:\MyPath"
 HelpDesc[3]="Path to export files to, like c:\MyPath"
 
 [AnalyzeContentCommandlet]
+; EN: HelpCmd="analyzecontent"
 HelpCmd="analyzecontent"
+; EN: HelpOneLiner="Analyzes map"
 HelpOneLiner="Analyzes map"
+; EN: HelpUsage="analyzecontent mapname"
 HelpUsage="analyzecontent mapname"
+; EN: HelpParm[0]="mapname"
 HelpParm[0]="mapname"
+; EN: HelpDesc[0]="Path to a map file"
 HelpDesc[0]="Path to a map file"

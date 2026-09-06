@@ -1,61 +1,82 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Adara Canyon"
 Title="Adara Canyon"
 
 [LevelSummary]
+; EN: Title="Adara Canyon"
 Title="Adara Canyon"
+; EN: Description="Seismic tremors and eons of erosion forged this battlefield. Adara Canyon is nature at its most awe-inspiring. But don't let the beauty fool you. Long drops claim lives and the corridor-like nature of the canyon makes AVRiL avoidance somewhat difficult."
 Description="Seismic tremors and eons of erosion forged this battlefield. Adara Canyon is nature at its most awe-inspiring. But don't let the beauty fool you. Long drops claim lives and the corridor-like nature of the canyon makes AVRiL avoidance somewhat difficult."
 
 [Volume0]
+; EN: LocationName="Eastern Falls"
 LocationName="Eastern Falls"
 
 [Volume1]
+; EN: LocationName="Western Falls"
 LocationName="Western Falls"
 
 [Volume10]
+; EN: LocationName="Blue Support Node (5)"
 LocationName="Blue Support Node (5)"
 
 [Volume11]
+; EN: LocationName="South Node (3)"
 LocationName="South Node (3)"
 
 [Volume13]
+; EN: LocationName="Red Prime Node (1)"
 LocationName="Red Prime Node (1)"
 
 [Volume14]
+; EN: LocationName="Red Power Core"
 LocationName="Red Power Core"
 
 [Volume15]
+; EN: LocationName="Red Support Node (7)"
 LocationName="Red Support Node (7)"
 
 [Volume16]
+; EN: LocationName="North Node (4)"
 LocationName="North Node (4)"
 
 [Volume17]
+; EN: LocationName="Center Node (6)"
 LocationName="Center Node (6)"
 
 [Volume2]
+; EN: LocationName="Eastern Base"
 LocationName="Eastern Base"
 
 [Volume3]
+; EN: LocationName="Western Base"
 LocationName="Western Base"
 
 [Volume4]
+; EN: LocationName="Northern Bridge Passage"
 LocationName="Northern Bridge Passage"
 
 [Volume5]
+; EN: LocationName="Southern Bridge Passage"
 LocationName="Southern Bridge Passage"
 
 [Volume6]
+; EN: LocationName="Bridge"
 LocationName="Bridge"
 
 [Volume7]
+; EN: LocationName="Central Island"
 LocationName="Central Island"
 
 [Volume8]
+; EN: LocationName="Blue Prime Node (2)"
 LocationName="Blue Prime Node (2)"
 
 [Volume9]
+; EN: LocationName="Blue Power Core"
 LocationName="Blue Power Core"
 
 [ZoneInfo0]
+; EN: LocationName="Canyon"
 LocationName="Canyon"
 

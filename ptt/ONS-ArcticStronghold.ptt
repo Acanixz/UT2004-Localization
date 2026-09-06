@@ -1,73 +1,98 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Arctic Stronghold"
 Title="Arctic Stronghold"
 
 [LevelSummary]
+; EN: Title="Arctic Stronghold"
 Title="Arctic Stronghold"
+; EN: Description="Stationed at 24,000 feet and veiled behind blinding fog and constant snow, Arctic Stronghold provided the perfect place to conduct unsanctioned military experiments for use against the Skaarj. Restructured for Onslaught, this arena allows several paths to your enemy, and countless paths to death for the foolish or unwary."
 Description="Stationed at 24,000 feet and veiled behind blinding fog and constant snow, Arctic Stronghold provided the perfect place to conduct unsanctioned military experiments for use against the Skaarj. Restructured for Onslaught, this arena allows several paths to your enemy, and countless paths to death for the foolish or unwary."
 
 [Volume0]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume1]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume10]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume11]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume12]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume13]
+; EN: LocationName="Below East Bridge"
 LocationName="Below East Bridge"
 
 [Volume14]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume15]
+; EN: LocationName="North Node (4)"
 LocationName="North Node (4)"
 
 [Volume16]
+; EN: LocationName="East Node (2)"
 LocationName="East Node (2)"
 
 [Volume17]
+; EN: LocationName="Central Node (5)"
 LocationName="Central Node (5)"
 
 [Volume18]
+; EN: LocationName="South Node (1)"
 LocationName="South Node (1)"
 
 [Volume19]
+; EN: LocationName="West Node (3)"
 LocationName="West Node (3)"
 
 [Volume2]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume20]
+; EN: LocationName="Bridge"
 LocationName="Bridge"
 
 [Volume3]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume4]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume5]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume6]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume7]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume8]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume9]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [ZoneInfo0]
+; EN: LocationName="Outside"
 LocationName="Outside"
 

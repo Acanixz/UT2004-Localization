@@ -1,4 +1,6 @@
-[utvMutator]
+﻿[utvMutator]
+; EN: FriendlyName="UTV2004S"
 FriendlyName="UTV2004S"
+; EN: Description="Required to support UTV2004 SeeAll mode"
 Description="Required to support UTV2004 SeeAll mode"
 

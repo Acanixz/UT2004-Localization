@@ -1,43 +1,58 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Iron Deity"
 Title="Iron Deity"
 
 [LevelSummary]
+; EN: Title="Iron Deity"
 Title="Iron Deity"
+; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the double damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
 Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the double damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
 
 [ZoneInfo0]
+; EN: LocationName="Near Lightning Gun"
 LocationName="Near Lightning Gun"
 
 [ZoneInfo1]
+; EN: LocationName="Lower Ramp"
 LocationName="Lower Ramp"
 
 [ZoneInfo10]
+; EN: LocationName="Low FPS room"
 LocationName="Low FPS room"
 
 [ZoneInfo11]
+; EN: LocationName="Near DoubleDamage"
 LocationName="Near DoubleDamage"
 
 [ZoneInfo12]
+; EN: LocationName="Closet"
 LocationName="Closet"
 
 [ZoneInfo2]
+; EN: LocationName="Near Link Gun"
 LocationName="Near Link Gun"
 
 [ZoneInfo3]
+; EN: LocationName="Minigun"
 LocationName="Minigun"
 
 [ZoneInfo4]
+; EN: LocationName="Double Damage"
 LocationName="Double Damage"
 
 [ZoneInfo5]
+; EN: LocationName="Flak Room"
 LocationName="Flak Room"
 
 [ZoneInfo7]
+; EN: LocationName="Bathroom"
 LocationName="Bathroom"
 
 [ZoneInfo8]
+; EN: LocationName="Closet"
 LocationName="Closet"
 
 [ZoneInfo9]
+; EN: LocationName="Near Shock Rifle"
 LocationName="Near Shock Rifle"
 

@@ -1,49 +1,66 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="HyperBlast2"
 Title="HyperBlast2"
 
 [LevelSummary]
+; EN: Title="HyperBlast2"
 Title="HyperBlast2"
+; EN: Description="Thanks to Magnetic Anti-Vacuum Resonance technology, combatants are able to battle outside of Xan's 'HyperBlast' arena ship for an extended period of time. Use extreme caution though, one mistake and you'll find yourself floating in space."
 Description="Thanks to Magnetic Anti-Vacuum Resonance technology, combatants are able to battle outside of Xan's 'HyperBlast' arena ship for an extended period of time. Use extreme caution though, one mistake and you'll find yourself floating in space."
 
 [ZoneInfo0]
+; EN: LocationName="lower ventricle "
 LocationName="lower ventricle "
 
 [ZoneInfo1]
+; EN: LocationName="port side ramp"
 LocationName="port side ramp"
 
 [ZoneInfo10]
+; EN: LocationName="upper atrium"
 LocationName="upper atrium"
 
 [ZoneInfo11]
+; EN: LocationName="port side interior"
 LocationName="port side interior"
 
 [ZoneInfo12]
+; EN: LocationName="exterior"
 LocationName="exterior"
 
 [ZoneInfo13]
+; EN: LocationName="starboard moon hallway"
 LocationName="starboard moon hallway"
 
 [ZoneInfo14]
+; EN: LocationName="aft room"
 LocationName="aft room"
 
 [ZoneInfo2]
+; EN: LocationName="starboard side ramp"
 LocationName="starboard side ramp"
 
 [ZoneInfo4]
+; EN: LocationName="upper ventricle "
 LocationName="upper ventricle "
 
 [ZoneInfo5]
+; EN: LocationName="lower atrium"
 LocationName="lower atrium"
 
 [ZoneInfo6]
+; EN: LocationName="starboard side interior"
 LocationName="starboard side interior"
 
 [ZoneInfo7]
+; EN: LocationName="port moon hallway"
 LocationName="port moon hallway"
 
 [ZoneInfo8]
+; EN: LocationName="starboard side wing"
 LocationName="starboard side wing"
 
 [ZoneInfo9]
+; EN: LocationName="port side wing"
 LocationName="port side wing"
 

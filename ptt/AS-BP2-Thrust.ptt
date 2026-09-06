@@ -1,85 +1,128 @@
-[ASCriticalObjectiveVolume0]
+﻿[ASCriticalObjectiveVolume0]
+; EN: LocationName="Guidance Rocket Switch"
 LocationName="Guidance Rocket Switch"
 
 [ASCriticalObjectiveVolume1]
+; EN: LocationName="Pressure Tanks"
 LocationName="Pressure Tanks"
 
 [Action_DISPLAYMESSAGE0]
+; EN: Message="5..."
 Message="5..."
 
 [Action_DISPLAYMESSAGE1]
+; EN: Message="4..."
 Message="4..."
 
 [Action_DISPLAYMESSAGE2]
+; EN: Message="3..."
 Message="3..."
 
 [Action_DISPLAYMESSAGE3]
+; EN: Message="2..."
 Message="2..."
 
 [Action_DISPLAYMESSAGE5]
+; EN: Message="1..."
 Message="1..."
 
 [Action_DISPLAYMESSAGE6]
+; EN: Message="Pressure tanks destroyed!"
 Message="Pressure tanks destroyed!"
 
 [DestroyableObjective_SM0]
+; EN: ObjectiveName="SAM Launcher 1"
 ObjectiveName="SAM Launcher 1"
+; EN: DestructionMessage="SAM Launcher 1 Destroyed!"
 DestructionMessage="SAM Launcher 1 Destroyed!"
+; EN: ObjectiveDescription="Destroy the SAM launcher to allow the dropship to land."
 ObjectiveDescription="Destroy the SAM launcher to allow the dropship to land."
+; EN: Objective_Info_Attacker="Destroy SAM Launcher 1"
 Objective_Info_Attacker="Destroy SAM Launcher 1"
+; EN: Objective_Info_Defender="Protect SAM Launcher 1"
 Objective_Info_Defender="Protect SAM Launcher 1"
 
 [DestroyableObjective_SM1]
+; EN: ObjectiveName="SAM Launcher 2"
 ObjectiveName="SAM Launcher 2"
+; EN: DestructionMessage="SAM Launcher 2 Destroyed!"
 DestructionMessage="SAM Launcher 2 Destroyed!"
+; EN: ObjectiveDescription="Destroy SAM Launcher to allow the dropship to land."
 ObjectiveDescription="Destroy SAM Launcher to allow the dropship to land."
+; EN: Objective_Info_Attacker="Destroy SAM Launcher 2"
 Objective_Info_Attacker="Destroy SAM Launcher 2"
+; EN: Objective_Info_Defender="Protect SAM Launcher 2"
 Objective_Info_Defender="Protect SAM Launcher 2"
 
 [HoldObjective0]
+; EN: ObjectiveName="Main Rocket Launch Switch"
 ObjectiveName="Main Rocket Launch Switch"
+; EN: DestructionMessage="Rocket Launched!"
 DestructionMessage="Rocket Launched!"
+; EN: ObjectiveDescription="Launch the Main Rocket."
 ObjectiveDescription="Launch the Main Rocket."
+; EN: Objective_Info_Attacker="Launch the Main Rocket"
 Objective_Info_Attacker="Launch the Main Rocket"
+; EN: Objective_Info_Defender="Defend the Main Rocket Switch"
 Objective_Info_Defender="Defend the Main Rocket Switch"
 
 [HoldObjective1]
+; EN: ObjectiveName="Guidance Rocket"
 ObjectiveName="Guidance Rocket"
+; EN: DestructionMessage="Guidance Rocket Launched!"
 DestructionMessage="Guidance Rocket Launched!"
+; EN: ObjectiveDescription="Launch the Guidance Rocket, it is required for a successful launch of the main rocket."
 ObjectiveDescription="Launch the Guidance Rocket, it is required for a successful launch of the main rocket."
+; EN: Objective_Info_Attacker="Launch the Guidance Rocket"
 Objective_Info_Attacker="Launch the Guidance Rocket"
+; EN: Objective_Info_Defender="Defend the Guidance Rocket"
 Objective_Info_Defender="Defend the Guidance Rocket"
 
 [HoldObjective5]
+; EN: ObjectiveName="DockObjective"
 ObjectiveName="DockObjective"
+; EN: DestructionMessage="The explosives are in place!"
 DestructionMessage="The explosives are in place!"
+; EN: ObjectiveDescription="Place explosives on the pressure tanks to reduce hydraulic pressure and open the security door."
 ObjectiveDescription="Place explosives on the pressure tanks to reduce hydraulic pressure and open the security door."
+; EN: Objective_Info_Attacker="Place explosives on the pressure tanks"
 Objective_Info_Attacker="Place explosives on the pressure tanks"
+; EN: Objective_Info_Defender="Defend the pressure tanks"
 Objective_Info_Defender="Defend the pressure tanks"
 
 [LevelInfo0]
+; EN: Title="Thrust"
 Title="Thrust"
+; EN: LocationName="Outside"
 LocationName="Outside"
 
 [LevelSummary]
+; EN: Title="Thrust"
 Title="Thrust"
+; EN: Description="A recreation of the infamous destruction of the Saturn IX PCNR rocket where a crack team of anti-N.E.G. rebels stormed the launch facility and scuttled the rocket by launching it unguided and half-fueled."
 Description="A recreation of the infamous destruction of the Saturn IX PCNR rocket where a crack team of anti-N.E.G. rebels stormed the launch facility and scuttled the rocket by launching it unguided and half-fueled."
 
 [SceneSubtitles0]
+; EN: SubTitles=("This scenario recreates the premature launching of the half-fueled Saturn IX rocket by anti-N.E.G. rebels.","First, your team must toggle the switch on the roof of this small building to launch the Guidance Rocket, which serves as a necessary navigational beacon for the Main Rocket.","If you wish, you may choose to secure the auxiliary landing pad by destroying two these SAM launchers. If the SAM site is destroyed, your team then may spawn at the landing pad, and an airstrike will drastically weaken the enemy defenses at your next objective.","Place and detonate explosives on the hydraulic pressure tanks. This will open all base doors, and allow access to the facility's main control room.","Finally, you will need to activate the launch switch inside Mission Control before final fueling is complete.  This will scuttle the Main Rocket into an improper launch orbit.")
 SubTitles=("This scenario recreates the premature launching of the half-fueled Saturn IX rocket by anti-N.E.G. rebels.","First, your team must toggle the switch on the roof of this small building to launch the Guidance Rocket, which serves as a necessary navigational beacon for the Main Rocket.","If you wish, you may choose to secure the auxiliary landing pad by destroying two these SAM launchers. If the SAM site is destroyed, your team then may spawn at the landing pad, and an airstrike will drastically weaken the enemy defenses at your next objective.","Place and detonate explosives on the hydraulic pressure tanks. This will open all base doors, and allow access to the facility's main control room.","Finally, you will need to activate the launch switch inside Mission Control before final fueling is complete.  This will scuttle the Main Rocket into an improper launch orbit.")
 
 [Volume0]
+; EN: LocationName="SAM Platform"
 LocationName="SAM Platform"
 
 [ZoneInfo0]
+; EN: LocationName="Outside"
 LocationName="Outside"
 
 [ZoneInfo1]
+; EN: LocationName="Guidance Rocket Building"
 LocationName="Guidance Rocket Building"
 
 [ZoneInfo2]
+; EN: LocationName="Defender Spawn in Rocker Building"
 LocationName="Defender Spawn in Rocker Building"
 
 [ZoneInfo3]
+; EN: LocationName="Rocket Control Room"
 LocationName="Rocket Control Room"
 

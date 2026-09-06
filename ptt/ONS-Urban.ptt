@@ -1,148 +1,198 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Urban"
 Title="Urban"
 
 [LevelSummary]
+; EN: Title="Urban"
 Title="Urban"
+; EN: Description="Once the pinnacle of modernized civilization, this dense urban center has since fallen victim to crime, corruption, and civil war. Now mostly vacant, it has become a haven for underground criminal activity and lawlessness. LMC organizers jumped at the opportunity to own this prime piece of real estate. Instead of leveling the area and constructing a new arena, they decided to let the combatants do the demolition work themselves."
 Description="Once the pinnacle of modernized civilization, this dense urban center has since fallen victim to crime, corruption, and civil war. Now mostly vacant, it has become a haven for underground criminal activity and lawlessness. LMC organizers jumped at the opportunity to own this prime piece of real estate. Instead of leveling the area and constructing a new arena, they decided to let the combatants do the demolition work themselves."
 
 [Volume0]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume2]
+; EN: LocationName="Center Node (5)"
 LocationName="Center Node (5)"
 
 [Volume3]
+; EN: LocationName="Blue Prime Node (3)"
 LocationName="Blue Prime Node (3)"
 
 [Volume4]
+; EN: LocationName="Blue Subway Node (2)"
 LocationName="Blue Subway Node (2)"
 
 [Volume5]
+; EN: LocationName="Blue Leviathan Node (7)"
 LocationName="Blue Leviathan Node (7)"
 
 [Volume6]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume7]
+; EN: LocationName="Red Prime Node (4)"
 LocationName="Red Prime Node (4)"
 
 [Volume8]
+; EN: LocationName="Red Subway Node (1)"
 LocationName="Red Subway Node (1)"
 
 [Volume9]
+; EN: LocationName="Red Leviathan Node (6)"
 LocationName="Red Leviathan Node (6)"
 
 [ZoneInfo0]
+; EN: LocationName="Sewers"
 LocationName="Sewers"
 
 [ZoneInfo10]
+; EN: LocationName="Caudle Ave. (West)"
 LocationName="Caudle Ave. (West)"
 
 [ZoneInfo11]
+; EN: LocationName="Eastern Ruins"
 LocationName="Eastern Ruins"
 
 [ZoneInfo12]
+; EN: LocationName="Caudle Ave. (East)"
 LocationName="Caudle Ave. (East)"
 
 [ZoneInfo13]
+; EN: LocationName="Caudle Ave. (East)"
 LocationName="Caudle Ave. (East)"
 
 [ZoneInfo14]
+; EN: LocationName="Blezinski Blvd."
 LocationName="Blezinski Blvd."
 
 [ZoneInfo15]
+; EN: LocationName="Blue Base Entrance"
 LocationName="Blue Base Entrance"
 
 [ZoneInfo16]
+; EN: LocationName="Blue Base Entrance"
 LocationName="Blue Base Entrance"
 
 [ZoneInfo17]
+; EN: LocationName="Blue Base Entrance"
 LocationName="Blue Base Entrance"
 
 [ZoneInfo18]
+; EN: LocationName="Blue Base Entrance"
 LocationName="Blue Base Entrance"
 
 [ZoneInfo2]
+; EN: LocationName="Blue Leviathan Courtyard"
 LocationName="Blue Leviathan Courtyard"
 
 [ZoneInfo20]
+; EN: LocationName="Blezinski Blvd. (East)"
 LocationName="Blezinski Blvd. (East)"
 
 [ZoneInfo21]
+; EN: LocationName="Western Ruins"
 LocationName="Western Ruins"
 
 [ZoneInfo22]
+; EN: LocationName="Blezinski Blvd. (West)"
 LocationName="Blezinski Blvd. (West)"
 
 [ZoneInfo23]
+; EN: LocationName="Blezinski Blvd. (West)"
 LocationName="Blezinski Blvd. (West)"
 
 [ZoneInfo24]
+; EN: LocationName="Red Leviathan Courtyard"
 LocationName="Red Leviathan Courtyard"
 
 [ZoneInfo25]
+; EN: LocationName="Red Subway Entrance"
 LocationName="Red Subway Entrance"
 
 [ZoneInfo26]
+; EN: LocationName="Blue Subway"
 LocationName="Blue Subway"
 
 [ZoneInfo27]
+; EN: LocationName="Blue Subway"
 LocationName="Blue Subway"
 
 [ZoneInfo28]
+; EN: LocationName="Blue Forward Base"
 LocationName="Blue Forward Base"
 
 [ZoneInfo29]
+; EN: LocationName="Blue Power Core"
 LocationName="Blue Power Core"
 
 [ZoneInfo3]
+; EN: LocationName="Raptor Launchpad"
 LocationName="Raptor Launchpad"
 
 [ZoneInfo30]
+; EN: LocationName="Northwest Dropoff"
 LocationName="Northwest Dropoff"
 
 [ZoneInfo31]
+; EN: LocationName="Southwest Dropoff"
 LocationName="Southwest Dropoff"
 
 [ZoneInfo32]
+; EN: LocationName="Red Subway"
 LocationName="Red Subway"
 
 [ZoneInfo33]
+; EN: LocationName="Red Subway"
 LocationName="Red Subway"
 
 [ZoneInfo34]
+; EN: LocationName="Red Forward Base"
 LocationName="Red Forward Base"
 
 [ZoneInfo35]
+; EN: LocationName="Red Power Core"
 LocationName="Red Power Core"
 
 [ZoneInfo36]
+; EN: LocationName="Southeast Dropoff"
 LocationName="Southeast Dropoff"
 
 [ZoneInfo37]
+; EN: LocationName="Northeast Dropoff"
 LocationName="Northeast Dropoff"
 
 [ZoneInfo38]
+; EN: LocationName="Sewers"
 LocationName="Sewers"
 
 [ZoneInfo4]
+; EN: LocationName="Caudle Ave."
 LocationName="Caudle Ave."
 
 [ZoneInfo40]
+; EN: LocationName="Sewers"
 LocationName="Sewers"
 
 [ZoneInfo5]
+; EN: LocationName="Red Base Entrance"
 LocationName="Red Base Entrance"
 
 [ZoneInfo6]
+; EN: LocationName="Red Base Entrance"
 LocationName="Red Base Entrance"
 
 [ZoneInfo7]
+; EN: LocationName="Red Base Entrance"
 LocationName="Red Base Entrance"
 
 [ZoneInfo8]
+; EN: LocationName="Red Base Entrance"
 LocationName="Red Base Entrance"
 
 [ZoneInfo9]
+; EN: LocationName="Blue Subway Entrance"
 LocationName="Blue Subway Entrance"
 

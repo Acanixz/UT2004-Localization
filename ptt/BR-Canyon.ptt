@@ -1,37 +1,50 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Canyon"
 Title="Canyon"
 
 [LevelSummary]
+; EN: Title="Canyon"
 Title="Canyon"
+; EN: Description="Vicious, bloody combat and the great outdoors - who could ask for more?  This small arena is divided by a fast moving, deadly river.  Swimming is NOT recommended."
 Description="Vicious, bloody combat and the great outdoors - who could ask for more?  This small arena is divided by a fast moving, deadly river.  Swimming is NOT recommended."
 
 [Volume1]
+; EN: LocationName="Blue Sniper Roost"
 LocationName="Blue Sniper Roost"
 
 [Volume2]
+; EN: LocationName="Blue Bomb Goal"
 LocationName="Blue Bomb Goal"
 
 [Volume3]
+; EN: LocationName="Blue South Spawn Pool"
 LocationName="Blue South Spawn Pool"
 
 [Volume4]
+; EN: LocationName="Blue North Spawn Pool"
 LocationName="Blue North Spawn Pool"
 
 [Volume6]
+; EN: LocationName="Red Sniper Roost"
 LocationName="Red Sniper Roost"
 
 [Volume7]
+; EN: LocationName="Red North Spawn Pool"
 LocationName="Red North Spawn Pool"
 
 [Volume8]
+; EN: LocationName="Red South Spawn Pool"
 LocationName="Red South Spawn Pool"
 
 [Volume9]
+; EN: LocationName="Red Bomb Goal"
 LocationName="Red Bomb Goal"
 
 [WaterVolume0]
+; EN: LocationName="With the Fishes"
 LocationName="With the Fishes"
 
 [ZoneInfo1]
+; EN: LocationName="Outside"
 LocationName="Outside"
 

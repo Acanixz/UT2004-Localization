@@ -1,120 +1,160 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Temple Of Anubis"
 Title="Temple Of Anubis"
 
 [LevelInfo6]
+; EN: Title="Temple Of Anubis"
 Title="Temple Of Anubis"
 
 [LevelSummary]
+; EN: Title="Temple Of Anubis"
 Title="Temple Of Anubis"
 
 [ZoneInfo0]
+; EN: LocationName="Redeemer"
 LocationName="Redeemer"
 
 [ZoneInfo1]
+; EN: LocationName="Super shield sand dune"
 LocationName="Super shield sand dune"
 
 [ZoneInfo10]
+; EN: LocationName="Blue Respawn"
 LocationName="Blue Respawn"
 
 [ZoneInfo12]
+; EN: LocationName="Blue Respawn"
 LocationName="Blue Respawn"
 
 [ZoneInfo13]
+; EN: LocationName="Blue Respawn"
 LocationName="Blue Respawn"
 
 [ZoneInfo14]
+; EN: LocationName="Blue Top Entrance"
 LocationName="Blue Top Entrance"
 
 [ZoneInfo15]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [ZoneInfo16]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [ZoneInfo17]
+; EN: LocationName="Red Respawn"
 LocationName="Red Respawn"
 
 [ZoneInfo18]
+; EN: LocationName="Blue Respawn"
 LocationName="Blue Respawn"
 
 [ZoneInfo19]
+; EN: LocationName="Red Respawn"
 LocationName="Red Respawn"
 
 [ZoneInfo2]
+; EN: LocationName="Rocket Launcher"
 LocationName="Rocket Launcher"
 
 [ZoneInfo20]
+; EN: LocationName="Red Respawn"
 LocationName="Red Respawn"
 
 [ZoneInfo21]
+; EN: LocationName="Red Respawn"
 LocationName="Red Respawn"
 
 [ZoneInfo22]
+; EN: LocationName="Red Respawn"
 LocationName="Red Respawn"
 
 [ZoneInfo23]
+; EN: LocationName="Blue Respawn"
 LocationName="Blue Respawn"
 
 [ZoneInfo24]
+; EN: LocationName="Blue Respawn"
 LocationName="Blue Respawn"
 
 [ZoneInfo25]
+; EN: LocationName="Center"
 LocationName="Center"
 
 [ZoneInfo26]
+; EN: LocationName="Flak Cannon Room"
 LocationName="Flak Cannon Room"
 
 [ZoneInfo27]
+; EN: LocationName="Flak Cannon"
 LocationName="Flak Cannon"
 
 [ZoneInfo28]
+; EN: LocationName="Rocket Launcher Room"
 LocationName="Rocket Launcher Room"
 
 [ZoneInfo29]
+; EN: LocationName="Center"
 LocationName="Center"
 
 [ZoneInfo3]
+; EN: LocationName="Red Respawn"
 LocationName="Red Respawn"
 
 [ZoneInfo30]
+; EN: LocationName="Red court yard"
 LocationName="Red court yard"
 
 [ZoneInfo31]
+; EN: LocationName="Center"
 LocationName="Center"
 
 [ZoneInfo32]
+; EN: LocationName="Red Courtyard"
 LocationName="Red Courtyard"
 
 [ZoneInfo33]
+; EN: LocationName="Blue Top Entrance"
 LocationName="Blue Top Entrance"
 
 [ZoneInfo34]
+; EN: LocationName="Blue Top Entrance"
 LocationName="Blue Top Entrance"
 
 [ZoneInfo35]
+; EN: LocationName="Red Top Entrance"
 LocationName="Red Top Entrance"
 
 [ZoneInfo36]
+; EN: LocationName="Blue Top Entrance"
 LocationName="Blue Top Entrance"
 
 [ZoneInfo37]
+; EN: LocationName="Red Top Entrance"
 LocationName="Red Top Entrance"
 
 [ZoneInfo38]
+; EN: LocationName="Red Top Entrance"
 LocationName="Red Top Entrance"
 
 [ZoneInfo39]
+; EN: LocationName="Red Top Entrance"
 LocationName="Red Top Entrance"
 
 [ZoneInfo4]
+; EN: LocationName="Blue Courtyard"
 LocationName="Blue Courtyard"
 
 [ZoneInfo5]
+; EN: LocationName="Blue Courtyard"
 LocationName="Blue Courtyard"
 
 [ZoneInfo8]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [ZoneInfo9]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 

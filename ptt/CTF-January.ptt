@@ -1,94 +1,126 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="January"
 Title="January"
 
 [LevelSummary]
+; EN: Title="January"
 Title="January"
+; EN: Description="After a somewhat failed renovation attempt, the Liandri Corporation authorized the restructuring and repair of facility 32356.  Nearly 2 years later, the gates are open.  Welcome to facility 32356-a code-named January!"
 Description="After a somewhat failed renovation attempt, the Liandri Corporation authorized the restructuring and repair of facility 32356.  Nearly 2 years later, the gates are open.  Welcome to facility 32356-a code-named January!"
 
 [ZoneInfo0]
+; EN: LocationName="Blue Entrance Hall"
 LocationName="Blue Entrance Hall"
 
 [ZoneInfo10]
+; EN: LocationName="Blue Pipe Exit"
 LocationName="Blue Pipe Exit"
 
 [ZoneInfo11]
+; EN: LocationName="Blue Flag Access"
 LocationName="Blue Flag Access"
 
 [ZoneInfo12]
+; EN: LocationName="Red Entrance Hall"
 LocationName="Red Entrance Hall"
 
 [ZoneInfo14]
+; EN: LocationName="Red Entrance Stairs"
 LocationName="Red Entrance Stairs"
 
 [ZoneInfo15]
+; EN: LocationName="Red Foyer"
 LocationName="Red Foyer"
 
 [ZoneInfo16]
+; EN: LocationName="Blue Flag Base"
 LocationName="Blue Flag Base"
 
 [ZoneInfo17]
+; EN: LocationName="Blue Upper Flag Base"
 LocationName="Blue Upper Flag Base"
 
 [ZoneInfo18]
+; EN: LocationName="Red Platform"
 LocationName="Red Platform"
 
 [ZoneInfo19]
+; EN: LocationName="Red Doors (Left)"
 LocationName="Red Doors (Left)"
 
 [ZoneInfo2]
+; EN: LocationName="Blue Platform"
 LocationName="Blue Platform"
 
 [ZoneInfo20]
+; EN: LocationName="Red Access Hall"
 LocationName="Red Access Hall"
 
 [ZoneInfo21]
+; EN: LocationName="Red Pipe Exit"
 LocationName="Red Pipe Exit"
 
 [ZoneInfo22]
+; EN: LocationName="Red Flag Access"
 LocationName="Red Flag Access"
 
 [ZoneInfo23]
+; EN: LocationName="Red Bunker"
 LocationName="Red Bunker"
 
 [ZoneInfo24]
+; EN: LocationName="Red Flag Base"
 LocationName="Red Flag Base"
 
 [ZoneInfo25]
+; EN: LocationName="Red Upper Flag Base"
 LocationName="Red Upper Flag Base"
 
 [ZoneInfo26]
+; EN: LocationName="Red Junction"
 LocationName="Red Junction"
 
 [ZoneInfo27]
+; EN: LocationName="Blue Entrance Hall"
 LocationName="Blue Entrance Hall"
 
 [ZoneInfo29]
+; EN: LocationName="Red Upper Flag Base"
 LocationName="Red Upper Flag Base"
 
 [ZoneInfo3]
+; EN: LocationName="Blue Entrance Stairs"
 LocationName="Blue Entrance Stairs"
 
 [ZoneInfo30]
+; EN: LocationName="Red Entrance Hall"
 LocationName="Red Entrance Hall"
 
 [ZoneInfo31]
+; EN: LocationName="Middle"
 LocationName="Middle"
 
 [ZoneInfo4]
+; EN: LocationName="Blue Foyer"
 LocationName="Blue Foyer"
 
 [ZoneInfo46]
+; EN: LocationName="Blue Bunker"
 LocationName="Blue Bunker"
 
 [ZoneInfo6]
+; EN: LocationName="Blue Junction"
 LocationName="Blue Junction"
 
 [ZoneInfo7]
+; EN: LocationName="Blue Doors (Left)"
 LocationName="Blue Doors (Left)"
 
 [ZoneInfo8]
+; EN: LocationName="Blue Access Hall"
 LocationName="Blue Access Hall"
 
 [ZoneInfo9]
+; EN: LocationName="Blue Upper Flag Base"
 LocationName="Blue Upper Flag Base"
 

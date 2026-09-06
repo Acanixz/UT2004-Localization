@@ -1,15 +1,20 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Training Day"
 Title="Training Day"
 
 [LevelSummary]
+; EN: Title="Training Day"
 Title="Training Day"
 
 [ZoneInfo12]
+; EN: LocationName="Central Hallway"
 LocationName="Central Hallway"
 
 [ZoneInfo13]
+; EN: LocationName="Northeast Loop"
 LocationName="Northeast Loop"
 
 [ZoneInfo74]
+; EN: LocationName="Southwest Loop"
 LocationName="Southwest Loop"
 

@@ -1,79 +1,106 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Island Hop"
 Title="Island Hop"
 
 [LevelSummary]
+; EN: Title="Island Hop"
 Title="Island Hop"
+; EN: Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
 Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
 
 [Volume0]
+; EN: LocationName="Southwest Island"
 LocationName="Southwest Island"
 
 [Volume1]
+; EN: LocationName="Southwest Island"
 LocationName="Southwest Island"
 
 [Volume10]
+; EN: LocationName="Red Base"
 LocationName="Red Base"
 
 [Volume11]
+; EN: LocationName="West Island"
 LocationName="West Island"
 
 [Volume12]
+; EN: LocationName="Northwest Island"
 LocationName="Northwest Island"
 
 [Volume13]
+; EN: LocationName="Northwest Node (1)"
 LocationName="Northwest Node (1)"
 
 [Volume14]
+; EN: LocationName="Northwest Island"
 LocationName="Northwest Island"
 
 [Volume15]
+; EN: LocationName="Northeast Island"
 LocationName="Northeast Island"
 
 [Volume16]
+; EN: LocationName="Northeast Island"
 LocationName="Northeast Island"
 
 [Volume17]
+; EN: LocationName="Northeast Island"
 LocationName="Northeast Island"
 
 [Volume18]
+; EN: LocationName="Blue Prime Node (4)"
 LocationName="Blue Prime Node (4)"
 
 [Volume19]
+; EN: LocationName="East Island"
 LocationName="East Island"
 
 [Volume2]
+; EN: LocationName="Southwest Island"
 LocationName="Southwest Island"
 
 [Volume20]
+; EN: LocationName="Small Northeast Island"
 LocationName="Small Northeast Island"
 
 [Volume21]
+; EN: LocationName="Blue Base"
 LocationName="Blue Base"
 
 [Volume22]
+; EN: LocationName="East Island"
 LocationName="East Island"
 
 [Volume23]
+; EN: LocationName="Southeast Island"
 LocationName="Southeast Island"
 
 [Volume24]
+; EN: LocationName="Southeast Node (3)"
 LocationName="Southeast Node (3)"
 
 [Volume25]
+; EN: LocationName="Southeast Island"
 LocationName="Southeast Island"
 
 [Volume26]
+; EN: LocationName="Volcano"
 LocationName="Volcano"
 
 [Volume3]
+; EN: LocationName="Red Prime Node (2)"
 LocationName="Red Prime Node (2)"
 
 [Volume5]
+; EN: LocationName="West Island"
 LocationName="West Island"
 
 [Volume9]
+; EN: LocationName="Small Southwest Island"
 LocationName="Small Southwest Island"
 
 [ZoneInfo1]
+; EN: LocationName="Outside"
 LocationName="Outside"
 

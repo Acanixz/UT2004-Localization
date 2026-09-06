@@ -1,43 +1,58 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Squader"
 Title="Squader"
 
 [LevelSummary]
+; EN: Title="Squader"
 Title="Squader"
+; EN: Description="Once a section of a hidden military research facility, this cold structure now hosts some of the premiere 1 on 1 duels from the Tournament. The pressure is on.....how will you handle the spotlight?"
 Description="Once a section of a hidden military research facility, this cold structure now hosts some of the premiere 1 on 1 duels from the Tournament. The pressure is on.....how will you handle the spotlight?"
 
 [ZoneInfo0]
+; EN: LocationName="Super Shield Area"
 LocationName="Super Shield Area"
 
 [ZoneInfo10]
+; EN: LocationName="UDamage Halls"
 LocationName="UDamage Halls"
 
 [ZoneInfo11]
+; EN: LocationName="UDamage Halls"
 LocationName="UDamage Halls"
 
 [ZoneInfo12]
+; EN: LocationName="Super Shield Area"
 LocationName="Super Shield Area"
 
 [ZoneInfo2]
+; EN: LocationName="Minigun Lift"
 LocationName="Minigun Lift"
 
 [ZoneInfo3]
+; EN: LocationName="Flak Hall"
 LocationName="Flak Hall"
 
 [ZoneInfo4]
+; EN: LocationName="Flak Hall"
 LocationName="Flak Hall"
 
 [ZoneInfo5]
+; EN: LocationName="Double Health"
 LocationName="Double Health"
 
 [ZoneInfo6]
+; EN: LocationName="Bio Rifle Corner"
 LocationName="Bio Rifle Corner"
 
 [ZoneInfo7]
+; EN: LocationName="Large Window Area"
 LocationName="Large Window Area"
 
 [ZoneInfo8]
+; EN: LocationName="Large Window Area"
 LocationName="Large Window Area"
 
 [ZoneInfo9]
+; EN: LocationName="UDamage Halls"
 LocationName="UDamage Halls"
 

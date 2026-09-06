@@ -1,7 +1,10 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="DM-Calandras"
 Title="DM-Calandras"
 
 [LevelSummary]
+; EN: Title="DM-Calandras"
 Title="DM-Calandras"
+; EN: Description="The courtyards of Calandras were once beautiful and welcoming.  While the Temple has been preserved, a new less-inviting use has been found for the exteriors."
 Description="The courtyards of Calandras were once beautiful and welcoming.  While the Temple has been preserved, a new less-inviting use has been found for the exteriors."
 

@@ -1,37 +1,50 @@
-[LevelInfo0]
+﻿[LevelInfo0]
+; EN: Title="Serenity"
 Title="Serenity"
 
 [LevelSummary]
+; EN: Title="Serenity"
 Title="Serenity"
+; EN: Description="Feel the gentle breeze on your skin, hear the calming sounds of the forest, watch the fireflies dance in the clearing and surrender yourself to a growing sense of serenity.  Now ... collect your Flak Cannon and wreak havoc!"
 Description="Feel the gentle breeze on your skin, hear the calming sounds of the forest, watch the fireflies dance in the clearing and surrender yourself to a growing sense of serenity.  Now ... collect your Flak Cannon and wreak havoc!"
 
 [Volume1]
+; EN: LocationName="blue side of center field"
 LocationName="blue side of center field"
 
 [Volume2]
+; EN: LocationName="center field"
 LocationName="center field"
 
 [Volume3]
+; EN: LocationName="red base"
 LocationName="red base"
 
 [Volume4]
+; EN: LocationName="red side of center field"
 LocationName="red side of center field"
 
 [Volume5]
+; EN: LocationName="blue base"
 LocationName="blue base"
 
 [WaterVolume0]
+; EN: LocationName="in a watery grave"
 LocationName="in a watery grave"
 
 [WaterVolume1]
+; EN: LocationName="in a watery grave"
 LocationName="in a watery grave"
 
 [WaterVolume2]
+; EN: LocationName="hiding in the center field waterfall"
 LocationName="hiding in the center field waterfall"
 
 [xFallingVolume0]
+; EN: LocationName="falling to a watery grave"
 LocationName="falling to a watery grave"
 
 [xFallingVolume1]
+; EN: LocationName="falling to a watery grave"
 LocationName="falling to a watery grave"
 
