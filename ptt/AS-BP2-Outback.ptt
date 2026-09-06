@@ -1,194 +1,194 @@
 ﻿[ASOBJ_EnergyCore_Delivery0]
 ; EN: ObjectiveName="Hops addition"
-ObjectiveName="Hops addition"
+ObjectiveName="Adição de lúpulo"
 ; EN: DestructionMessage="Hops level at 3.2 %"
-DestructionMessage="Hops level at 3.2 %"
+DestructionMessage="Níveis de lúpulo em 3.2 %"
 ; EN: ObjectiveDescription="Hops addition"
-ObjectiveDescription="Hops addition"
+ObjectiveDescription="Adição de lúpulo"
 ; EN: Objective_Info_Attacker="Insert the Hops canister into the addition module"
-Objective_Info_Attacker="Insert the Hops canister into the addition module"
+Objective_Info_Attacker="Insira o recipiente de lúpulo no módulo de adição"
 ; EN: Objective_Info_Defender="Stop the Hops canister from being inserted"
-Objective_Info_Defender="Stop the Hops canister from being inserted"
+Objective_Info_Defender="Impeça o recipiente de lúpulo de ser inserido"
 
 [ASOBJ_EnergyCore_Spawn0]
 ; EN: PlayerDroppedMessage=" dropped the Hops Canister!"
-PlayerDroppedMessage=" dropped the Hops Canister!"
+PlayerDroppedMessage=" largou o recipiente de lúpulo!"
 ; EN: DroppedMessage="Hops Canister dropped!"
-DroppedMessage="Hops Canister dropped!"
+DroppedMessage="Recipiente de lúpulo largado!"
 ; EN: EnergyCorePickedUp="Hops Canister picked up!"
-EnergyCorePickedUp="Hops Canister picked up!"
+EnergyCorePickedUp="Recipiente de lúpulo coletado!"
 ; EN: PlayerPickedUpEnergyCore=" picked up the Hops Canister!"
-PlayerPickedUpEnergyCore=" picked up the Hops Canister!"
+PlayerPickedUpEnergyCore=" pegou o recipiente de lúpulo!"
 ; EN: PlayerCoreReset="Hops Canister reset!"
-PlayerCoreReset="Hops Canister reset!"
+PlayerCoreReset="Recipiente de lúpulo resetado!"
 ; EN: ObjectiveName="Hops canister"
-ObjectiveName="Hops canister"
+ObjectiveName="Recipiente de lúpulo"
 ; EN: DestructionMessage="Hops canister located"
-DestructionMessage="Hops canister located"
+DestructionMessage="Recipiente de lúpulo localizado"
 ; EN: ObjectiveDescription="Hops canister"
-ObjectiveDescription="Hops canister"
+ObjectiveDescription="Recipiente de lúpulo"
 ; EN: Objective_Info_Attacker="Find and deliver the missing Hops canister."
-Objective_Info_Attacker="Find and deliver the missing Hops canister."
+Objective_Info_Attacker="Encontre e entregue o recipiente de lúpulo ausente."
 ; EN: Objective_Info_Defender="Defend the Hops canister."
-Objective_Info_Defender="Defend the Hops canister."
+Objective_Info_Defender="Defenda o recipiente de lúpulo."
 
 [Action_DISPLAYMESSAGE0]
 ; EN: Message="Brewery gates are open"
-Message="Brewery gates are open"
+Message="Os portões da cervejaria estão abertos"
 
 [Action_DISPLAYMESSAGE3]
 ; EN: Message="The brewery has been breached...!"
-Message="The brewery has been breached...!"
+Message="A cervejaria foi invadida...!"
 
 [Action_DISPLAYMESSAGE4]
 ; EN: Message="Hops level at 9.8 % and holding"
-Message="Hops level at 9.8 % and holding"
+Message="Nível de lúpulo em 9.8 % e mantendo"
 
 [Action_DISPLAYMESSAGE5]
 ; EN: Message="Return to the pub to celebrate your victory..."
-Message="Return to the pub to celebrate your victory..."
+Message="Retorne ao pub para celebrar sua vitória..."
 
 [Action_DISPLAYMESSAGE7]
 ; EN: Message="and catch the Bush Boys live on stage"
-Message="and catch the Bush Boys live on stage"
+Message="e assistir os Bush Boys ao vivo no palco"
 
 [DestroyableObjective_SM0]
 ; EN: ObjectiveName="Zero Beer Marketing Campaign"
-ObjectiveName="Zero Beer Marketing Campaign"
+ObjectiveName="Campanha de Marketing Cerveja Zero"
 ; EN: DestructionMessage="Billboard Destroyed!"
-DestructionMessage="Billboard Destroyed!"
+DestructionMessage="Outdoor destruído!"
 ; EN: ObjectiveDescription="Zero Beer Billboard"
-ObjectiveDescription="Zero Beer Billboard"
+ObjectiveDescription="Outdoor Cerveja Zero"
 ; EN: Objective_Info_Attacker="Stop the Zero Beer marketing campaign."
-Objective_Info_Attacker="Stop the Zero Beer marketing campaign."
+Objective_Info_Attacker="Acabe com a campanha de marketing da Cerveja Zero."
 ; EN: Objective_Info_Defender="Protect the Zero Beer Billboards."
-Objective_Info_Defender="Protect the Zero Beer Billboards."
+Objective_Info_Defender="Proteja os Outdoors da Cerveja Zero."
 
 [DestroyableObjective_SM1]
 ; EN: ObjectiveName="Zero Beer Marketing Campaign"
-ObjectiveName="Zero Beer Marketing Campaign"
+ObjectiveName="Campanha de Marketing Cerveja Zero"
 ; EN: DestructionMessage="Billboard Destroyed!"
-DestructionMessage="Billboard Destroyed!"
+DestructionMessage="Outdoor destruído!"
 ; EN: ObjectiveDescription="Zero Beer Billboard"
-ObjectiveDescription="Zero Beer Billboard"
+ObjectiveDescription="Outdoor Cerveja Zero"
 ; EN: Objective_Info_Attacker="Stop the Zero Beer marketing campaign!"
-Objective_Info_Attacker="Stop the Zero Beer marketing campaign!"
+Objective_Info_Attacker="Acabe com a campanha de marketing da Cerveja Zero!"
 ; EN: Objective_Info_Defender="Protect the Zero Beer Billboards."
-Objective_Info_Defender="Protect the Zero Beer Billboards."
+Objective_Info_Defender="Proteja os Outdoors da Cerveja Zero."
 
 [DestroyableObjective_SM10]
 ; EN: ObjectiveName="Brewery gate locks"
-ObjectiveName="Brewery gate locks"
+ObjectiveName="Trancas dos portões da cervejaria"
 ; EN: ObjectiveDescription="Destroy Locks on Brewery gates."
-ObjectiveDescription="Destroy Locks on Brewery gates."
+ObjectiveDescription="Destrua as trancas dos portões da cervejaria."
 ; EN: Objective_Info_Attacker="Destroy the Brewery gate locks."
-Objective_Info_Attacker="Destroy the Brewery gate locks."
+Objective_Info_Attacker="Destrua as trancas dos portões da cervejaria."
 ; EN: Objective_Info_Defender="Protect the Brewery gates."
-Objective_Info_Defender="Protect the Brewery gates."
+Objective_Info_Defender="Proteja os portões da cervejaria."
 
 [DestroyableObjective_SM11]
 ; EN: ObjectiveName="Brewery gate locks"
-ObjectiveName="Brewery gate locks"
+ObjectiveName="Trancas dos portões da cervejaria"
 ; EN: Objective_Info_Attacker="Destroy the brewery gate locks"
-Objective_Info_Attacker="Destroy the brewery gate locks"
+Objective_Info_Attacker="Destrua as trancas dos portões da cervejaria"
 ; EN: Objective_Info_Defender="Protect the brewery gates"
-Objective_Info_Defender="Protect the brewery gates"
+Objective_Info_Defender="Proteja os portões da cervejaria"
 
 [DestroyableObjective_SM2]
 ; EN: ObjectiveName="Zero Beer Marketing Campaign"
-ObjectiveName="Zero Beer Marketing Campaign"
+ObjectiveName="Campanha de Marketing Cerveja Zero"
 ; EN: DestructionMessage="Billboard Destroyed!"
-DestructionMessage="Billboard Destroyed!"
+DestructionMessage="Outdoor destruído!"
 ; EN: ObjectiveDescription="Zero Beer Billboard"
-ObjectiveDescription="Zero Beer Billboard"
+ObjectiveDescription="Outdoor Cerveja Zero"
 ; EN: Objective_Info_Attacker="Stop the Zero Beer marketing campaign!"
-Objective_Info_Attacker="Stop the Zero Beer marketing campaign!"
+Objective_Info_Attacker="Acabe com a campanha de marketing da Cerveja Zero!"
 ; EN: Objective_Info_Defender="Protect the Zero Beer Billboards."
-Objective_Info_Defender="Protect the Zero Beer Billboards."
+Objective_Info_Defender="Proteja os Outdoors da Cerveja Zero."
 
 [DestroyableObjective_SM4]
 ; EN: ObjectiveName="Zero Beer Marketing Campaign"
-ObjectiveName="Zero Beer Marketing Campaign"
+ObjectiveName="Campanha de Marketing Cerveja Zero"
 ; EN: DestructionMessage="Billboard Destroyed!"
-DestructionMessage="Billboard Destroyed!"
+DestructionMessage="Outdoor destruído!"
 ; EN: ObjectiveDescription="Zero Beer Billboard"
-ObjectiveDescription="Zero Beer Billboard"
+ObjectiveDescription="Outdoor Cerveja Zero"
 ; EN: Objective_Info_Attacker="Stop the Zero Beer marketing campaign!"
-Objective_Info_Attacker="Stop the Zero Beer marketing campaign!"
+Objective_Info_Attacker="Acabe com a campanha de marketing da Cerveja Zero!"
 ; EN: Objective_Info_Defender="Protect the Zero Beer Billboards."
-Objective_Info_Defender="Protect the Zero Beer Billboards."
+Objective_Info_Defender="Proteja os Outdoors da Cerveja Zero."
 
 [DestroyableObjective_SM6]
 ; EN: ObjectiveName="Brewery gate locks"
-ObjectiveName="Brewery gate locks"
+ObjectiveName="Trancas dos portões da cervejaria"
 ; EN: Objective_Info_Attacker="Destroy the brewery gate locks"
-Objective_Info_Attacker="Destroy the brewery gate locks"
+Objective_Info_Attacker="Destrua as trancas dos portões da cervejaria"
 ; EN: Objective_Info_Defender="Protect the brewery gates"
-Objective_Info_Defender="Protect the brewery gates"
+Objective_Info_Defender="Proteja os portões da cervejaria"
 
 [DestroyableObjective_SM9]
 ; EN: ObjectiveName="Zero Beer Marketing Campaign"
-ObjectiveName="Zero Beer Marketing Campaign"
+ObjectiveName="Campanha de Marketing Cerveja Zero"
 ; EN: DestructionMessage="Billboard Destroyed!"
-DestructionMessage="Billboard Destroyed!"
+DestructionMessage="Outdoor destruído!"
 ; EN: ObjectiveDescription="Zero Beer Billboard"
-ObjectiveDescription="Zero Beer Billboard"
+ObjectiveDescription="Outdoor Cerveja Zero"
 ; EN: Objective_Info_Attacker="Stop the Zero Beer marketing campaign!"
-Objective_Info_Attacker="Stop the Zero Beer marketing campaign!"
+Objective_Info_Attacker="Acabe com a campanha de marketing da Cerveja Zero!"
 ; EN: Objective_Info_Defender="Protect the Zero Beer Billboards."
-Objective_Info_Defender="Protect the Zero Beer Billboards."
+Objective_Info_Defender="Proteja os Outdoors da Cerveja Zero."
 
 [Energybeer]
 ; EN: ObjectiveName="Beer canister"
-ObjectiveName="Beer canister"
+ObjectiveName="Recipiente de cerveja"
 
 [HoldObjective1]
 ; EN: ObjectiveName="The Pubs Main Valve"
-ObjectiveName="The Pubs Main Valve"
+ObjectiveName="Valvula principal do Pub"
 ; EN: DestructionMessage="Drainage valve opened!"
-DestructionMessage="Drainage valve opened!"
+DestructionMessage="Valvula de drenagem aberta!"
 ; EN: ObjectiveDescription="Main Pub Valve"
-ObjectiveDescription="Main Pub Valve"
+ObjectiveDescription="Valvula principal do Pub"
 ; EN: Objective_Info_Attacker="Open the Pub's Zero Beer drainage valve."
-Objective_Info_Attacker="Open the Pub's Zero Beer drainage valve."
+Objective_Info_Attacker="Abra a valvula de drenagem da Cerveja Zero do Pub."
 ; EN: Objective_Info_Defender="Protect the Pub's Zero Beer drainage valve."
-Objective_Info_Defender="Protect the Pub's Zero Beer drainage valve."
+Objective_Info_Defender="Proteja a valvula de drenagem da Cerveja Zero do Pub."
 
 [HoldObjective2]
 ; EN: ObjectiveName="The Billabong Water Valve"
-ObjectiveName="The Billabong Water Valve"
+ObjectiveName="Valvula de água do Billabong"
 ; EN: DestructionMessage="Billabong water sucessfully pumped!"
-DestructionMessage="Billabong water sucessfully pumped!"
+DestructionMessage="Água do Billabong bombeada com sucesso!"
 ; EN: ObjectiveDescription="Brewery Valve"
-ObjectiveDescription="Brewery Valve"
+ObjectiveDescription="Valvula da Cervejaria"
 ; EN: Objective_Info_Attacker="Pump the fresh water to the brewery system."
-Objective_Info_Attacker="Pump the fresh water to the brewery system."
+Objective_Info_Attacker="Bombeie a água fresca para o sistema da cervejaria."
 ; EN: Objective_Info_Defender="Keep the fresh water out of the brewery."
-Objective_Info_Defender="Keep the fresh water out of the brewery."
+Objective_Info_Defender="Mantenha a água fresca fora da cervejaria."
 
 [HoldObjective3]
 ; EN: ObjectiveName="The Final Valve"
-ObjectiveName="The Final Valve"
+ObjectiveName="A valvula final"
 ; EN: DestructionMessage="New beer has been distilled"
-DestructionMessage="New beer has been distilled"
+DestructionMessage="A cerveja nova foi destilada"
 ; EN: ObjectiveDescription="Fermentation Tanks"
-ObjectiveDescription="Fermentation Tanks"
+ObjectiveDescription="Tanques de fermentação"
 ; EN: Objective_Info_Attacker="Get the new beer into the fermentation tanks."
-Objective_Info_Attacker="Get the new beer into the fermentation tanks."
+Objective_Info_Attacker="Coloque a nova cerveja nos tanques de fermentação."
 ; EN: Objective_Info_Defender="Keep the new beer out of the fermentation tanks."
-Objective_Info_Defender="Keep the new beer out of the fermentation tanks."
+Objective_Info_Defender="Deixe a nova cerveja longe dos tanques de fermentação."
 
 [HoldObjective4]
 ; EN: ObjectiveName="Billabong Flow Valve"
-ObjectiveName="Billabong Flow Valve"
+ObjectiveName="Valvula de fluxo do Billabong"
 ; EN: DestructionMessage="Billabong water sucessfully added."
-DestructionMessage="Billabong water sucessfully added."
+DestructionMessage="Água do Billabong adicionada com sucesso."
 ; EN: ObjectiveDescription="Brewery Valve"
-ObjectiveDescription="Brewery Valve"
+ObjectiveDescription="Valvula da Cervejaria"
 ; EN: Objective_Info_Attacker="Open the Brew Tank water valve."
-Objective_Info_Attacker="Open the Brew Tank water valve."
+Objective_Info_Attacker="Abra a valvula da cervejaria."
 ; EN: Objective_Info_Defender="Keep the Brew Tank Valve closed."
-Objective_Info_Defender="Keep the Brew Tank Valve closed."
+Objective_Info_Defender="Mantenha a valvula da cervejaria fechada."
 
 [LevelInfo0]
 ; EN: Title="AS-BP2-Outback"
@@ -198,67 +198,67 @@ Title="AS-BP2-Outback"
 ; EN: Title="AS-BP2-Outback"
 Title="AS-BP2-Outback"
 ; EN: Description="City slickers just took over the outback's top brewery.  They've dumped your favorite beverage, replacing it with piss poor Zero Beer.|The grog's got no alcohol and tastes like a Bondi cigar!  Get over there pronto and sort this thing out...  before it takes over OZ!!"
-Description="City slickers just took over the outback's top brewery.  They've dumped your favorite beverage, replacing it with piss poor Zero Beer.|The grog's got no alcohol and tastes like a Bondi cigar!  Get over there pronto and sort this thing out...  before it takes over OZ!!"
+Description="Os engomadinhos da cidade acabaram de invadir a melhor cervejaria do outback. Eles jogaram fora o seu litrão favorito, substituindo-o por Cerveja Zero meia boca.|Essa porcaria não tem álcool e tem gosto de bosta! Vai lá AGORA e resolva isso.. antes que dominem a Austrália!!"
 
 [MyBurned]
 ; EN: DeathString="%o got to close to the flamage."
-DeathString="%o got to close to the flamage."
+DeathString="%o chegou perto da churrasqueira controle remoto."
 ; EN: FemaleSuicide="%o played with fire, and lost"
-FemaleSuicide="%o played with fire, and lost"
+FemaleSuicide="%o ganhou um novo bronzeado"
 ; EN: MaleSuicide="%o played with fire, and lost"
-MaleSuicide="%o played with fire, and lost"
+MaleSuicide="%o brincou com fogo, e virou carvão"
 
 [MyDrowned]
 ; EN: DeathString="%o went looking for the swagman"
-DeathString="%o went looking for the swagman"
+DeathString="%o foi de arrasta pra baixo"
 ; EN: FemaleSuicide="%o went looking for the swagman"
-FemaleSuicide="%o went looking for the swagman"
+FemaleSuicide="%o tentou beber toda a água do lago"
 ; EN: MaleSuicide="%o went looking for the swagman"
-MaleSuicide="%o went looking for the swagman"
+MaleSuicide="%o foi afogado por um Canguru bombado"
 
 [PhysicsVolume0]
 ; EN: LocationName="Conveyor blets"
-LocationName="Conveyor blets"
+LocationName="Esteiras de transporte"
 
 [SceneSubtitles1]
 ; EN: SubTitles=("Somewhere deep in the Australian outback...",,"trouble is brewing.",,"First, your team will need to open the Pub's drainage valve and get rid of the old Zero Beer.",,"Next, destroy the Zero Beer billboards to ruin their marketing campaign.",,"In order to make new beer, you'll need to engage the lake's pumps and restore the flow of fresh water into the Brewery.",,"Once the water is flowing, your team must storm the Brewery's main gates.",,"When you're inside, open the intake valve to pump the fresh water into the brewing tanks.",,"Find the missing Hops canister and add it to the Brew cycle.",,"Once the hops are in, someone will need to activate the main switch and start the stirring paddles of the brew kettles.",,"Finally, open the main valve to fill up the fermentation tanks with fresh beer.",)
-SubTitles=("Somewhere deep in the Australian outback...",,"trouble is brewing.",,"First, your team will need to open the Pub's drainage valve and get rid of the old Zero Beer.",,"Next, destroy the Zero Beer billboards to ruin their marketing campaign.",,"In order to make new beer, you'll need to engage the lake's pumps and restore the flow of fresh water into the Brewery.",,"Once the water is flowing, your team must storm the Brewery's main gates.",,"When you're inside, open the intake valve to pump the fresh water into the brewing tanks.",,"Find the missing Hops canister and add it to the Brew cycle.",,"Once the hops are in, someone will need to activate the main switch and start the stirring paddles of the brew kettles.",,"Finally, open the main valve to fill up the fermentation tanks with fresh beer.",)
+SubTitles=("Nas profundezas do outback Australiano...",,"encrenca está surgindo.",,"Primeiro, sua equipe precisará abrir a válvula de drenagem do Pub e se livrar da velha Cerveja Zero.",,"Em seguida, destrua os outdoors da Cerveja Zero para arruinar a campanha de marketing deles.",,"Para fazer nova cerveja, você precisará ativar as bombas do lago e restaurar o fluxo de água fresca para a Cervejaria.",,"Quando a água estiver fluindo, sua equipe deve invadir os portões principais da Cervejaria.",,"Quando estiver dentro, abra a válvula de entrada para bombear a água fresca para os tanques de fermentação.",,"Encontre o recipiente de lúpulo perdido e adicione-o ao ciclo de fermentação.",,"Uma vez que o lúpulo está dentro, alguém precisará ativar o interruptor principal e iniciar as pás de mistura das caldeiras de produção.",,"Finalmente, abra a válvula principal para encher os tanques de fermentação com cerveja fresca.",)
 
 [Trigger_ASMessageTrigger0]
 ; EN: Message="Billboards have been destroyed, proceed to the billabong"
-Message="Billboards have been destroyed, proceed to the billabong"
+Message="Outdoors destruídos, prossiga para o Billabong"
 
 [TriggeredObjective2]
 ; EN: ObjectiveName="Stirring Paddle Switch"
-ObjectiveName="Stirring Paddle Switch"
+ObjectiveName="Interruptor das Pás de Mistura"
 ; EN: DestructionMessage="Stirring paddles activated."
-DestructionMessage="Stirring paddles activated."
+DestructionMessage="Pás de mistura ativadas."
 ; EN: ObjectiveDescription="Brew Kettles Main Switch"
-ObjectiveDescription="Brew Kettles Main Switch"
+ObjectiveDescription="Interruptor Principal das Caldeiras de Produção"
 ; EN: Objective_Info_Attacker="Activate the Brew Kettles."
-Objective_Info_Attacker="Activate the Brew Kettles."
+Objective_Info_Attacker="Ative as Caldeiras de Produção."
 ; EN: Objective_Info_Defender="Keep the Brew Kettles shut down"
-Objective_Info_Defender="Keep the Brew Kettles shut down"
+Objective_Info_Defender="Mantenha as Caldeiras de Produção desligadas"
 
 [Volume0]
 ; EN: LocationName="In the Pub"
-LocationName="In the Pub"
+LocationName="No Pub"
 
 [WaterVolume0]
 ; EN: LocationName="Billabong water"
-LocationName="Billabong water"
+LocationName="Águas de Billabong"
 
 [WaterVolume1]
 ; EN: LocationName="Fermenting beer"
-LocationName="Fermenting beer"
+LocationName="Fermentando cerveja"
 
 [WaterVolume2]
 ; EN: LocationName="Beer tank"
-LocationName="Beer tank"
+LocationName="Tanque de cerveja"
 
 [WaterVolume3]
 ; EN: LocationName="Under Water in Billiabong"
-LocationName="Under Water in Billiabong"
+LocationName="Submerso em Billiabong"
 
 [ZoneInfo0]
 ; EN: LocationName="Outback"
@@ -266,25 +266,25 @@ LocationName="Outback"
 
 [ZoneInfo1]
 ; EN: LocationName="Brewery Shipping"
-LocationName="Brewery Shipping"
+LocationName="Transporte da Cervejaria"
 
 [ZoneInfo2]
 ; EN: LocationName="Brewery Production"
-LocationName="Brewery Production"
+LocationName="Produção da Cervejaria"
 
 [ZoneInfo3]
 ; EN: LocationName="Back at the Pub"
-LocationName="Back at the Pub"
+LocationName="De volta no Pub"
 
 [beercanister]
 ; EN: PlayerDroppedMessage=" dropped the Hops canister!"
-PlayerDroppedMessage=" dropped the Hops canister!"
+PlayerDroppedMessage=" largou o recipiente de lúpulo!"
 ; EN: DroppedMessage="Hops canister dropped!"
-DroppedMessage="Hops canister dropped!"
+DroppedMessage="Recipiente de lúpulo largado!"
 ; EN: EnergyCorePickedUp="Hops canister picked up!"
-EnergyCorePickedUp="Hops canister picked up!"
+EnergyCorePickedUp="Recipiente de lúpulo coletado!"
 ; EN: PlayerPickedUpEnergyCore=" picked up the Hops canister!"
-PlayerPickedUpEnergyCore=" picked up the Hops canister!"
+PlayerPickedUpEnergyCore=" pegou o recipiente de lúpulo!"
 ; EN: PlayerCoreReset="Hops canister reset!"
-PlayerCoreReset="Hops canister reset!"
+PlayerCoreReset="Recipiente de lúpulo resetado!"
 
